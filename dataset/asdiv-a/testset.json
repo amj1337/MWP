@@ -1,0 +1,1268 @@
+[
+    {
+        "@ID": "nluds-0760",
+        "@Grade": "4",
+        "@Source": "http://www.ck12.org",
+        "Body": "Jane bir günde 16 vazo çiçek düzenleyebilir. Düzenlenecek 248 adet çiçek vazosu varsa,",
+        "Question": "Tüm çiçek aranjmanlarını bitirmesi için kaç güne ihtiyacı var?",
+        "Solution-Type": "Tavan Bölümü",
+        "Answer": "16 (gün)",
+        "Formula": "248/16=15 r8"
+    },
+    {
+        "@ID": "nluds-0255",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Pinky herkese 147, Helen ise 56 minyatür balkabağı turtası yaptı.",
+        "Question": "Toplamda kaç tane minyatür turtaları var?",
+        "Solution-Type": "Ek",
+        "Answer": "203 (minyatür turtalar)",
+        "Formula": "147+56=203"
+    },
+    {
+        "@ID": "nluds-0606",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Tony'nin 20 doları vardı. Bir beyzbol maçına bilet için 8 dolar ödedi. Maçta 3 dolara sosisli sandviç aldı.",
+        "Question": "Peki Tony'nin o zaman ne kadar parası vardı?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "9 (dolar)",
+        "Formula": "20-8-3=9"
+    },
+    {
+        "@ID": "nluds-0467",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Christian'ın annesi limonata hazırladı. Her sürahi limonata 5 bardağa hizmet edebilir. Eğer 30 bardak limonata servis edebilseydi,",
+        "Question": "Kaç sürahi limonata hazırladı?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "6 (sürahi)",
+        "Formula": "30/5=6"
+    },
+    {
+        "@ID": "nluds-0939",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Bayan Randall 18 yıldır üçüncü sınıflarda öğretmenlik yapıyor. Bu yıl 26 öğrencisi var. Ayrıca 8 yıl boyunca ikinci sınıf öğretmenliği yaptı.",
+        "Question": "Bayan Randall kaç yıldır öğretmenlik yapıyor?",
+        "Solution-Type": "Ek",
+        "Answer": "26 yıl)",
+        "Formula": "18+8=26"
+    },
+    {
+        "@ID": "nluds-0009",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Sepette 14 adet kırmızı erik ve 4 adet yeşil erik bulunmaktadır.",
+        "Question": "Sepette kaç tane erik var?",
+        "Solution-Type": "Ek",
+        "Answer": "18 (erik)",
+        "Formula": "4+14=18"
+    },
+    {
+        "@ID": "nluds-1924",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Adam bir parti için doksan yedi kek aldı. Elli sekizi yenilseydi,",
+        "Question": "Adem'in elinde kaç kek kalırdı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "39 (kek)",
+        "Formula": "97-58=39"
+    },
+    {
+        "@ID": "nluds-0056",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Okul otobüsünde 10 öğrenci vardı. İlk durakta 3 öğrenci otobüsten indi.",
+        "Question": "Otobüste kaç öğrenci kaldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "7 (öğrenci)",
+        "Formula": "10-3=7"
+    },
+    {
+        "@ID": "nluds-0005",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Adam'ın Jackie'den beş elması daha var. Jackie'nin dokuz elması var.",
+        "Question": "Adem'in kaç elması var?",
+        "Solution-Type": "Ek",
+        "Answer": "14 (elmalar)",
+        "Formula": "5+9=14"
+    },
+    {
+        "@ID": "nluds-1715",
+        "@Grade": "6",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Ürün mağazasından 12,46 dolara 2 torba muz satın alabilirsiniz.",
+        "Question": "6 poşet alsanız fiyatı ne kadar olur?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ortak Bölüm",
+            "#text": "Çarpma işlemi"
+        },
+        "Answer": "37.38 (dolar)",
+        "Formula": "(12.46/2)*6=37.38"
+    },
+    {
+        "@ID": "nluds-1875",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Rachel kumbarasından iki dolar aldı. Artık kumbarasında üç doları var.",
+        "Question": "Orada başlangıçta ne kadar para vardı?",
+        "Solution-Type": "Ek",
+        "Answer": "5 dolar)",
+        "Formula": "2+3=5"
+    },
+    {
+        "@ID": "nluds-1736",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Gwen'in doğum günü için beş dolar aldı. Eğer üç dolar harcasaydı.",
+        "Question": "Hala ne kadar parası vardı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "2 (dolar)",
+        "Formula": "5-3=2"
+    },
+    {
+        "@ID": "nluds-2003",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Paige'in ödev olarak 43 matematik problemi ve 12 fen problemi vardı. Okuldaki problemlerin 44'ünü bitirmiş olsaydı,",
+        "Question": "ödev için kaç tane problem çözmesi gerekiyordu?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çıkarma"
+        },
+        "Answer": "11 (sorunlar)",
+        "Formula": "(43+12)-44=11"
+    },
+    {
+        "@ID": "nluds-0015",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Sepetin içinde sekiz top vardı. Topların bir kısmı sepetten çıkarıldı. Şimdi altı top var.",
+        "Question": "Sepetten kaç top çıkarıldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "2 (top)",
+        "Formula": "8-6=2"
+    },
+    {
+        "@ID": "nluds-1821",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Amy farklı çorbalar alıyordu. 6 kutu tavuk çorbası ve 3 kutu domates çorbası aldı.",
+        "Question": "Kaç tane çorba satın aldı?",
+        "Solution-Type": "Ek",
+        "Answer": "9 (çorbalar)",
+        "Formula": "6+3=9"
+    },
+    {
+        "@ID": "nluds-2241",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Jerry eski oyunlarını satıyordu. Altmış sekiz ile başladı ama dördünü sattı. Geri kalanını her kutuya sekiz oyun koyarak paketledi.",
+        "Question": "Kaç kutu kullanması gerekiyordu?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çıkarma",
+            "#text": "Ortak Bölüm"
+        },
+        "Answer": "8 (kutu)",
+        "Formula": "(68-4)/8=8"
+    },
+    {
+        "@ID": "nluds-0033",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Bayan Hilt'in en sevdiği birinci sınıf dersleri kek pişirmektir. Bayan Brier'in sınıfı 18 muffin, Bayan MacAdams'ın sınıfı 20 muffin ve Bayan Flannery'nin sınıfı 17 muffin pişiriyor.",
+        "Question": "Birinci sınıf toplam kaç tane kek pişiriyor?",
+        "Solution-Type": "Toplam",
+        "Answer": "55 (kek)",
+        "Formula": "18+20+17=55"
+    },
+    {
+        "@ID": "nluds-2179",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Nancy bahçesinden 12 havuç topladı. Bunlardan 2 tanesini atıp ertesi gün 21 tanesini daha seçerse,",
+        "Question": "toplam kaç havuç alırdı?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "31 (havuç)",
+        "Formula": "12-2+21=31"
+    },
+    {
+        "@ID": "nluds-1251",
+        "@Grade": "1",
+        "@Source": "Created by an Annotator",
+        "Body": "Audrey'in 26 şeftalisi var. Paul'un 48 şeftalisi var.",
+        "Question": "Audrey'in şeftalileri ile Paul'un şeftalilerinin sayısı arasındaki fark nedir?",
+        "Solution-Type": "Fark",
+        "Answer": "22 (şeftali)",
+        "Formula": "48-26=22"
+    },
+    {
+        "@ID": "nluds-2012",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Cody'nin 45 doları vardı. Doğum gününde 9 dolar daha aldı ama 19 dolarını yeni bir oyuna harcadı.",
+        "Question": "Şu an ne kadar parası var?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "35 (dolar)",
+        "Formula": "45+9-19=35"
+    },
+    {
+        "@ID": "nluds-0081",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Jovana kovasını 5 kiloluk kabukla doldurdu. Kovasını doldurmak için 12 kilo daha deniz kabuğu eklerse,",
+        "Question": "onun kaç kilosu var?",
+        "Solution-Type": "Ek",
+        "Answer": "17 (pound)",
+        "Formula": "5+12=17"
+    },
+    {
+        "@ID": "nluds-0919",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Maura her yaz deniz kabuğu topluyor. Ailesi 21 gün boyunca sahildeki evde kalıyor. Bu yaz Maura 75 deniz kabuğu buldu. Birazını kız kardeşine verdi. Maura'nın daha sonra 57 deniz kabuğu vardı.",
+        "Question": "Maura kız kardeşine kaç tane deniz kabuğu verdi?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "18 (deniz kabukları)",
+        "Formula": "75-57=18"
+    },
+    {
+        "@ID": "nluds-0018",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "David'in Marin'den sıfır elması daha az var. Marin'in üç elması var.",
+        "Question": "David'in kaç elması var?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "3 (elma)",
+        "Formula": "3-0=3"
+    },
+    {
+        "@ID": "nluds-0596",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Bir DVD kitabında 126 DVD bulunur. Kitapta halihazırda 81 DVD var.",
+        "Question": "Kitaba kaç DVD daha yerleştirilebilir?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "45 (DVD'ler)",
+        "Formula": "126-81=45"
+    },
+    {
+        "@ID": "nluds-1718",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir postacının her bloğa yirmi sekiz parça önemsiz posta vermesi gerekiyor. Bir blokta dört ev varsa",
+        "Question": "her eve kaç adet önemsiz posta vermesi gerekir?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "7 (istenmeyen posta parçaları)",
+        "Formula": "28/4=7"
+    },
+    {
+        "@ID": "nluds-0335",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Krema ve son dokunuşlar için Willie'nin 300 lbs'ye ihtiyacı olacak. krem şanti. Eğer 149 lbs'ye sahip olsaydı. çiftliğinden krema,",
+        "Question": "daha ne kadar krem ​​satın alınması gerekiyor?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "151 (lb)",
+        "Formula": "300-149=151"
+    },
+    {
+        "@ID": "nluds-1781",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Rachel internetten 8 müzik albümü satın aldı. Her albümde 2 şarkı olsaydı,",
+        "Question": "toplam kaç şarkı satın aldı?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "16 (şarkı)",
+        "Formula": "8*2=16"
+    },
+    {
+        "@ID": "nluds-0066",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Programda 105 veli ve 698 öğrenci de yer aldı.",
+        "Question": "Programa kaç kişi katıldı?",
+        "Solution-Type": "Ek",
+        "Answer": "803 (kişi)",
+        "Formula": "105+698=803"
+    },
+    {
+        "@ID": "nluds-1039",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Gizemli bir sayıya 45 eklerseniz 92 elde edersiniz.",
+        "Question": "Gizemli sayı nedir?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "47",
+        "Formula": "92-45=47"
+    },
+    {
+        "@ID": "nluds-2144",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Haley cumartesi günü altı saat, pazar günü ise üç saat televizyon izledi.",
+        "Question": "Haley toplamda kaç saat televizyon izledi?",
+        "Solution-Type": "Ek",
+        "Answer": "9 saat)",
+        "Formula": "6+3=9"
+    },
+    {
+        "@ID": "nluds-0585",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Warren'ın partisine 252 misafir geliyor. Her masada 4 kişi yer alacaktır.",
+        "Question": "Kaç masaya ihtiyacı olacak?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "63 (tablolar)",
+        "Formula": "252/4=63"
+    },
+    {
+        "@ID": "nluds-0118",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Cindy'nin 41 adet şekeri vardı. Sabah altı parça, öğleden sonra ise on iki parça daha yedi.",
+        "Question": "Kaç tane şekeri kaldı?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "23 (şeker parçaları)",
+        "Formula": "41-6-12=23"
+    },
+    {
+        "@ID": "nluds-0126",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Josh'un 142 kalemi vardı. Dorothy'ye 31 kalem verdi.",
+        "Question": "Josh'un kaç kalemi kaldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "111 (kalemler)",
+        "Formula": "142-31=111"
+    },
+    {
+        "@ID": "nluds-2289",
+        "@Grade": "4",
+        "@Source": "http://www.dadsworksheets.com",
+        "Body": "Bridget'in blok koleksiyonunda 820 blok bulunmaktadır. Bloklar 82 gruba ayrılırsa,",
+        "Question": "her grup ne kadar büyük?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "10 (blok)",
+        "Formula": "820/82=10"
+    },
+    {
+        "@ID": "nluds-0747",
+        "@Grade": "4",
+        "@Source": "http://www.ck12.org",
+        "Body": "Annem biraz patates aldı. Patateslerin 15'ini salata yapmak için, 24'ünü ise patates püresi yapmak için kullandı. 13 patates kalsaydı",
+        "Question": "Annem ilk başta kaç tane patates aldı?",
+        "Solution-Type": "TVQ-İlk",
+        "Answer": "52 (patates)",
+        "Formula": "15+24+13=52"
+    },
+    {
+        "@ID": "nluds-0961",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Danny şişe kapakları topluyor. Parkta 18 şişe kapağı buldu. Artık koleksiyonunda 55 şişe kapağı var.",
+        "Question": "Danny'nin ilk başta kaç tane şişe kapağı vardı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "37 (şişe kapakları)",
+        "Formula": "55-18=37"
+    },
+    {
+        "@ID": "nluds-0945",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Tommy'nin 79 doları var. 35 dolarlık bir kamera satın almak istiyor. Ayrıca 59 dolarlık bir CD çalar satın almak istiyor.",
+        "Question": "Tommy'nin daha ne kadar paraya ihtiyacı var?",
+        "Solution-Type": "TVQ-Değişim",
+        "Answer": "15 (dolar)",
+        "Formula": "35+59-79=15"
+    },
+    {
+        "@ID": "nluds-0592",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Beyaz tişörtler 6'lı paketler halinde satın alınabilir. Annem 71 paket alırsa,",
+        "Question": "Kaç tane beyaz tişörtü olacak?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "426 (beyaz tişörtler)",
+        "Formula": "6*71=426"
+    },
+    {
+        "@ID": "nluds-2206",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Wendy bulduğu her hazine için beş puan aldığı bir video oyunu oynuyordu. Birinci seviyede dört, ikinci seviyede ise üç hazine bulursa,",
+        "Question": "onun puanı ne olurdu?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çarpma işlemi"
+        },
+        "Answer": "35 (puan)",
+        "Formula": "(4+3)*5=35"
+    },
+    {
+        "@ID": "nluds-2195",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Haley'nin eski çamaşır makinesi aynı anda yalnızca yedi parça giysiyi yıkayabiliyordu. Eğer iki gömleği ve otuz üç kazağı yıkamak zorunda kalsaydı,",
+        "Question": "kaç yük yapması gerekirdi?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Ortak Bölüm"
+        },
+        "Answer": "5 (yükler)",
+        "Formula": "(2+33)/7=5"
+    },
+    {
+        "@ID": "nluds-0735",
+        "@Grade": "2",
+        "@Source": "http://www.ck12.org",
+        "Body": "Bir satranç kulübünün 3 üyesi vardır. 4 yeni üyenin kaydolması halinde,",
+        "Question": "Satranç kulübünde toplam kaç üye var?",
+        "Solution-Type": "Ek",
+        "Answer": "7 (üye)",
+        "Formula": "3+4=7"
+    },
+    {
+        "@ID": "nluds-1265",
+        "@Grade": "4",
+        "@Source": "Created by an Annotator",
+        "Body": "Billy arkadaşıyla basketbol oynuyordu. Billy 7 sayı, arkadaşı ise 9 sayı attı.",
+        "Question": "Billy'nin puanlarıyla arkadaşının puanları arasındaki fark nedir?",
+        "Solution-Type": "Fark",
+        "Answer": "2 (puan)",
+        "Formula": "9-7=2"
+    },
+    {
+        "@ID": "nluds-2151",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir evcil hayvan dükkanında altı yavru kedi vardı. Eğer üç yavru kedi daha alırlarsa,",
+        "Question": "toplam kaç tane olacak?",
+        "Solution-Type": "Ek",
+        "Answer": "9 (yavru kedi)",
+        "Formula": "6+3=9"
+    },
+    {
+        "@ID": "nluds-0387",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Her otobüste dokuz sıra koltuk varsa ve her koltuk sırasında 4 çocuk yer alabiliyorsa,",
+        "Question": "Her otobüste kaç çocuk konaklayabilir?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "36 (çocuk)",
+        "Formula": "9*4=36"
+    },
+    {
+        "@ID": "nluds-0355",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Sonunda atıklarını düzgün bir şekilde attıklarından emin olmak için 169 fabrikayı dolaşmak zorunda kaldılar. Eğer onların grubu 69 fabrikaya giderse ve ikincisi 52 fabrikaya giderse,",
+        "Question": "kaç fabrika kontrolsüz kaldı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çıkarma"
+        },
+        "Answer": "48 (fabrikalar)",
+        "Formula": "169-(69+52)=48"
+    },
+    {
+        "@ID": "nluds-0484",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Brenda'nın komşusu Shannon, bilezik yapımında Brenda'ya katıldı. 48 adet kalp şeklinde taş getirmiş ve yaptığı her bileklikte bu taş türünden 8 adet olmasını istemiştir.",
+        "Question": "Shannon kalp şeklinde taşlardan kaç tane bilezik yapabilir?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "6 (bilezik)",
+        "Formula": "48/8=6"
+    },
+    {
+        "@ID": "nluds-0352",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Nehirleri temizledikten sonra tarım arazilerini toparlamaya devam ettiler. Lizzie'nin grubu 250 metrekarelik bir alanı kaplıyorsa ve diğer grup 265 metrekarelik bir alanı kaplıyorsa,",
+        "Question": "Toplamda 900 m2 arazi varsa temizlenmesi gereken kaç m2 alan daha kalır?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çıkarma"
+        },
+        "Answer": "385 (fit kare)",
+        "Formula": "900-(250+265)=385"
+    },
+    {
+        "@ID": "nluds-0549",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "21 pizza sipariş ettik. Her pizza 8 dilimden oluşuyor.",
+        "Question": "Toplam kaç dilim pizza var?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "168 (pizza dilimleri)",
+        "Formula": "21*8=168"
+    },
+    {
+        "@ID": "nluds-1729",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Paul eski oyuncaklarını topluyordu. Sekiz oyuncağı bir kutuya sığdırmayı başardı. Paul dört kutuyu doldurursa,",
+        "Question": "toplam kaç oyuncak topladı?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "32 (oyuncak)",
+        "Formula": "8*4=32"
+    },
+    {
+        "@ID": "nluds-0982",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Trevor bankasında 77 madeni para saydı. 29 çeyrek saydı. Gerisi on sent.",
+        "Question": "Toplamda Trevor'ın litresinden kaç jeton fazlası var?",
+        "Solution-Type": "Fark",
+        "Answer": "48 (para)",
+        "Formula": "77-29=48"
+    },
+    {
+        "@ID": "nluds-1775",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Olivia'nın babası, doğum günü için onu ve bazı arkadaşlarını yemeğe götürdü. Eğer her öğünün fiyatı 7 dolarsa ve 3 öğünün ücretini babası ödüyorsa,",
+        "Question": "ne kadar harcadı?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "21 (dolar)",
+        "Formula": "7*3=21"
+    },
+    {
+        "@ID": "nluds-0426",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Dean yazın son haftalarının tadını çıkarmak için arkadaşlarıyla birlikte sahile gitti. Sahile vardıklarında birkaç hafta kalmaları için bir ev kiraladılar. Dean dahil yedi kişi varsa ve her biri kira için 70,00 dolar ödemişse,",
+        "Question": "toplam ne kadar ödediler?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "490 (dolar)",
+        "Formula": "7*70=490"
+    },
+    {
+        "@ID": "nluds-0279",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Karar nedeniyle Sofia, öğrencilerden belirli yiyecek türleri önermelerini istedi. 279 öğrenci menüye patates püresi eklenmesini, 234 öğrenci ise pastırma eklenmesini önerdiyse,",
+        "Question": "Yeni yiyecek öğeleri önerisine kaç öğrenci katıldı?",
+        "Solution-Type": "Ek",
+        "Answer": "513 (öğrenci)",
+        "Formula": "279+234=513"
+    },
+    {
+        "@ID": "nluds-1845",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Frank'in 16 doları vardı. Birkaç yeni oyuncak aldıktan sonra geriye 8 doları kalmıştı.",
+        "Question": "Oyuncaklara ne kadar harcadı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "8 (dolar)",
+        "Formula": "16-8=8"
+    },
+    {
+        "@ID": "nluds-2153",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "John'un on iki gömleği var. Daha sonra dört gömlek daha aldı.",
+        "Question": "John'un toplam kaç gömleği var?",
+        "Solution-Type": "Ek",
+        "Answer": "16 (gömlek)",
+        "Formula": "12+4=16"
+    },
+    {
+        "@ID": "nluds-1884",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Oyun oynarken Edward'ın on beş canı vardı. Zor düzeyde sekiz hayatını kaybetti.",
+        "Question": "Kaç canı kaldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "7 (yaşıyor)",
+        "Formula": "15-8=7"
+    },
+    {
+        "@ID": "nluds-0753",
+        "@Grade": "4",
+        "@Source": "http://www.ck12.org",
+        "Body": "Bir otomobil satıcısı ilk gün 14, ikinci gün 16, üçüncü gün ise 27 otomobil sattı.",
+        "Question": "Araba satıcısı 3 günde kaç araba sattı?",
+        "Solution-Type": "Toplam",
+        "Answer": "57 (araba)",
+        "Formula": "14+16+27=57"
+    },
+    {
+        "@ID": "nluds-1035",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Brian okul pistini 96 saniyede koştu. Todd 88 saniyede etrafı dolaştı.",
+        "Question": "Todd'un pistte koşması kaç saniye daha az sürdü?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "8 (saniye)",
+        "Formula": "96-88=8"
+    },
+    {
+        "@ID": "nluds-1254",
+        "@Grade": "1",
+        "@Source": "Created by an Annotator",
+        "Body": "6 kuş ve 3 yuva var.",
+        "Question": "Oradaki kuş ve yuva sayısı arasındaki fark nedir?",
+        "Solution-Type": "Fark",
+        "Answer": "3",
+        "Formula": "6-3=3"
+    },
+    {
+        "@ID": "nluds-0812",
+        "@Grade": "5",
+        "@Source": "http://www.ck12.org",
+        "Body": "Bir demlikte 1.050 ml çay vardı. Anna çayı fincanlara doldurdu. Her fincanda 65 ml çay olsaydı,",
+        "Question": "kaç bardak çayla dolduruldu?",
+        "Solution-Type": "Kat Bölümü",
+        "Answer": "16 (bardak)",
+        "Formula": "1050/65=16 r10"
+    },
+    {
+        "@ID": "nluds-0413",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Jenny okula gitmek için okulun çift katlı otobüsüne binmeye karar verdi. Otobüste toplam 20 sıra koltuk bulunmaktadır ve her sıra 4 çocuk kapasitelidir.",
+        "Question": "Okul otobüsüne toplam kaç çocuk binebilir?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "80 (çocuklar)",
+        "Formula": "20*4=80"
+    },
+    {
+        "@ID": "nluds-0085",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Isabella'nın saçı 18 küp uzunluğunda. Saçları 4 santim daha uzarsa",
+        "Question": "ne kadar sürecek?",
+        "Solution-Type": "Ek",
+        "Answer": "22 (küp)",
+        "Formula": "18+4=22"
+    },
+    {
+        "@ID": "nluds-1949",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir evcil hayvan dükkanında 2 beyaz kedi, 10 kara kedi ve 3 gri kedi vardı.",
+        "Question": "Toplam kaç kedileri vardı?",
+        "Solution-Type": "Toplam",
+        "Answer": "15 (kediler)",
+        "Formula": "2+10+3=15"
+    },
+    {
+        "@ID": "nluds-0877",
+        "@Grade": "2",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Makineme başka bir numara koydum. Makine 15'i ekledi ve sonra 6'yı çıkardı. Makineden 35 sayısı çıktı.",
+        "Question": "Hangi sayıyı girdim?",
+        "Solution-Type": "TVQ-İlk",
+        "Answer": "26",
+        "Formula": "35+6-15=26"
+    },
+    {
+        "@ID": "nluds-1286",
+        "@Grade": "1",
+        "@Source": "Created by an Annotator",
+        "Body": "Zoe ağacından beş elma topladı. Şimdi ağaçta hala altı elma var.",
+        "Question": "Zoe'nin topladığı elma sayısıyla ağacın sahip olduğu elma sayısı arasındaki fark nedir?",
+        "Solution-Type": "Fark",
+        "Answer": "1 (elma)",
+        "Formula": "6-5=1"
+    },
+    {
+        "@ID": "nluds-0149",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Bayan Hilt ve kız kardeşi, 78 mil uzaktaki bir konsere gittiler. 32 mil yol kat ettiler ve sonra benzin için durdular. Kız kardeşi arabaya 28 galon benzin koydu.",
+        "Question": "Gidecekleri kaç mil kaldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "46 (mil)",
+        "Formula": "78-32=46"
+    },
+    {
+        "@ID": "nluds-0611",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Lisa 4,80 dolara 4 DVD kiraladı.",
+        "Question": "Her bir DVD'nin kiralanması ne kadara mal oldu?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "1,2 (dolar)",
+        "Formula": "4.80/4=1.20"
+    },
+    {
+        "@ID": "nluds-2240",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Kafeteryada elli bir elma vardı. Öğle yemeği için kırk birini öğrencilere dağıttılar ve geri kalanını turta yapmak için kullanmaya karar verdiler. Her turtaya beş elma veriliyorsa,",
+        "Question": "kaç tane turta yapabilirlerdi?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çıkarma",
+            "#text": "Ortak Bölüm"
+        },
+        "Answer": "2 (turta)",
+        "Formula": "(51-41)/5=2"
+    },
+    {
+        "@ID": "nluds-0552",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "150 kitap rafı vardı. Her kitap rafında 15 kitap vardı.",
+        "Question": "Raflarda kaç kitap vardı?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "2250 (kitaplar)",
+        "Formula": "150*15=2250"
+    },
+    {
+        "@ID": "nluds-2112",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Edward bir masa oyununa 2 dolar harcadı ve ardından her biri 7 dolara 4 aksiyon figürü satın aldı.",
+        "Question": "Oyuna ve rakamlara ne kadar para harcadı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çarpma işlemi",
+            "#text": "Ek"
+        },
+        "Answer": "30 (dolar)",
+        "Formula": "4*7+2=30"
+    },
+    {
+        "@ID": "nluds-0235",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Ödül töreni gününde Robyn ve Lucy, rozeti aldıklarından emin olmak için sabah saatlerinde daha fazla kurabiye satmaya karar verdiler. Lucy 19 paket sattı ve Robyn 16 paket sattı.",
+        "Question": "Son günde kaç paket sattılar?",
+        "Solution-Type": "Ek",
+        "Answer": "35 (paket)",
+        "Formula": "19+16=35"
+    },
+    {
+        "@ID": "nluds-2155",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Roger geçen yıl on beş, bu yıl ise üç kez sinemaya gitti.",
+        "Question": "Roger kaç kez hep birlikte sinemaya gitti?",
+        "Solution-Type": "Ek",
+        "Answer": "18 (kez)",
+        "Formula": "15+3=18"
+    },
+    {
+        "@ID": "nluds-0642",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Lucy'nin 212 balığı var.",
+        "Question": "280 balığa sahip olmak için kaç balık daha alması gerekiyor?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "68 (balık)",
+        "Formula": "280-212=68"
+    },
+    {
+        "@ID": "nluds-0479",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Haley'nin yatağının altında büyük bir torba top saklanıyordu. Annesi topları koruyucu ailelerdeki çocuklar için torbalara koydu. Her torbada 4 top varsa ve Haley'de 36 top varsa,",
+        "Question": "kaç torba kullanılacak?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "9 (çanta)",
+        "Formula": "36/4=9"
+    },
+    {
+        "@ID": "nluds-1024",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Özgürlük Anıtı'nı sabah saatlerinde 35 kişi ziyaret etti. Öğleden sonra sabaha göre 56 kişi daha fazla ziyaret etti.",
+        "Question": "Öğleden sonra Özgürlük Anıtı'nı kaç kişi ziyaret etti?",
+        "Solution-Type": "Ek",
+        "Answer": "91 (kişi)",
+        "Formula": "35+56=91"
+    },
+    {
+        "@ID": "nluds-0566",
+        "@Grade": "3",
+        "@Class": "self-defined unit",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Jesse'nin odası 12 fit uzunluğunda ve 8 fit genişliğindedir.",
+        "Question": "Tüm zemini kaplamak için ne kadar halıya ihtiyacı var?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "96 (feet kare)",
+        "Formula": "12*8=96"
+    },
+    {
+        "@ID": "nluds-1774",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Endüstriyel bir makine 12 gömlek üretti. Dakikada 2 gömlek üretebilmektedir.",
+        "Question": "Makine kaç dakika çalışıyordu?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "6 (dakika)",
+        "Formula": "12/2=6"
+    },
+    {
+        "@ID": "nluds-0168",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Çeyrek 0,25 dolara eşittir.",
+        "Question": "2.25$ kaç çeyrek eder?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "9 (çeyrek)",
+        "Formula": "2.25/0.25=9"
+    },
+    {
+        "@ID": "nluds-0788",
+        "@Grade": "3",
+        "@Source": "http://www.ck12.org",
+        "Body": "39 balonu 7 eşit gruba bölün.",
+        "Question": "Her grupta kaç balon var?",
+        "Solution-Type": "Kat Bölümü",
+        "Answer": "5 (balon)",
+        "Formula": "39/7=5 r4"
+    },
+    {
+        "@ID": "nluds-0250",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Son zil çaldıktan sonra Buddy yeni arkadaşlarıyla birlikte okul otobüsüne koştu. Eve dönerken otobüsün sol tarafında 36, ​​sağ tarafında ise 27 öğrencinin oturduğunu gördü.",
+        "Question": "Eve giden otobüste kaç öğrenci var?",
+        "Solution-Type": "Ek",
+        "Answer": "63 (öğrenci)",
+        "Formula": "36+27=63"
+    },
+    {
+        "@ID": "nluds-0927",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Billy müzik kitabında 24 şarkı çalabilir. 18 farklı gitar akorunun adını bilir. Billy'nin müzik kitabında 52 şarkı vardır.",
+        "Question": "Billy'nin hâlâ kaç şarkı öğrenmesi gerekiyor?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "28 (şarkı)",
+        "Formula": "52-24=28"
+    },
+    {
+        "@ID": "nluds-0949",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "J.T. bazı süper kahraman ticaret kartları var. 14 tanesini kaybetti. Bunlardan 19'unu en yakın arkadaşına verdi. Şimdi 45 kartı kaldı.",
+        "Question": "J.T. kaç kart attı? ilk başta var mı?",
+        "Solution-Type": "TVQ-İlk",
+        "Answer": "78 (kart)",
+        "Formula": "45+14+19=78"
+    },
+    {
+        "@ID": "nluds-2260",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir bilgi yarışması ekibinin toplam 9 üyesi vardı, ancak oyun sırasında 3 üye gelmedi. Katılan her üye 2 puan aldıysa,",
+        "Question": "toplam kaç puan alındı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çıkarma",
+            "#text": "Çarpma işlemi"
+        },
+        "Answer": "12 (puan)",
+        "Formula": "(9-3)*2=12"
+    },
+    {
+        "@ID": "nluds-1762",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Tiffany arkadaşlarına doğum günü davetiyeleri gönderiyordu. Pazartesi günü dokuz, Salı günü sekiz tane gönderdi.",
+        "Question": "Toplam kaç tane gönderdi?",
+        "Solution-Type": "Ek",
+        "Answer": "17 (doğum günü davetiyeleri)",
+        "Formula": "9+8=17"
+    },
+    {
+        "@ID": "nluds-0931",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Jake yeni kitabının 37 sayfasını okudu. 8 bölüm ve 95 sayfadan oluşmaktadır. Jake o günün ilerleyen saatlerinde 25 sayfa daha okudu.",
+        "Question": "Toplamda kaç sayfa okudu?",
+        "Solution-Type": "Ek",
+        "Answer": "62 (sayfa)",
+        "Formula": "37+25=62"
+    },
+    {
+        "@ID": "nluds-1898",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Olivia'nın dosyasında seksen bir parça kağıt vardı. Elli altı parça kullandı.",
+        "Question": "Şimdi kaç parçası var?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "25 (adet)",
+        "Formula": "81-56=25"
+    },
+    {
+        "@ID": "nluds-2181",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Zoe'nin buzdolabında 42 şişe su vardı. Eğer 25 tanesini içip sonra 30 tanesini daha alırsa,",
+        "Question": "kaç şişesi olurdu?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "47 (şişeler)",
+        "Formula": "42-25+30=47"
+    },
+    {
+        "@ID": "nluds-0733",
+        "@Grade": "2",
+        "@Source": "http://www.ck12.org",
+        "Body": "Jack sabah 8, öğleden sonra ise 2 e-posta aldı.",
+        "Question": "Jack gün içinde kaç e-posta aldı?",
+        "Solution-Type": "Ek",
+        "Answer": "10 (e-postalar)",
+        "Formula": "8+2=10"
+    },
+    {
+        "@ID": "nluds-0002",
+        "@Grade": "1",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Ellen'ın Marin'den altı tane daha fazla topu var. Marin'in dokuz topu var.",
+        "Question": "Ellen'ın kaç topu var?",
+        "Solution-Type": "Ek",
+        "Answer": "15 (top)",
+        "Formula": "6+9=15"
+    },
+    {
+        "@ID": "nluds-0450",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Son gösteri olarak sirk, taç takan dans eden hayvanları sahneye çıkardı. Her taç 7 farklı renkte tüyden yapılırsa,",
+        "Question": "934 kron için kaç tüy gerekiyor?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "6538 (tüyler)",
+        "Formula": "7*934=6538"
+    },
+    {
+        "@ID": "nluds-2007",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Maria alışveriş yaparken 35 yeşil havlu ve 21 beyaz havlu aldı. 34 tanesini annesine verseydi",
+        "Question": "Maria'nın elinde kaç havlu kaldı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çıkarma"
+        },
+        "Answer": "22 (havlu)",
+        "Formula": "(35+21)-34=22"
+    },
+    {
+        "@ID": "nluds-0622",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Jill doğum günü partisine 37 kişiyi davet etti. Her biri 8 dilim pizza yemişti.",
+        "Question": "Kaç parça pizza yediler?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "296 (pizza parçası)",
+        "Formula": "37*8=296"
+    },
+    {
+        "@ID": "nluds-1750",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Luke annesine çamaşır yıkamada yardım ediyordu. Her yükte yedi havlu olmak üzere altı yük yıkadılar.",
+        "Question": "Toplam kaç havlu yıkadılar?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "42 (havlu)",
+        "Formula": "6*7=42"
+    },
+    {
+        "@ID": "nluds-2262",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Sam 9 arkadaşını bir doğum günü partisine davet etti, ancak 6'sı gelemedi. Her kişiye tam 2 tane olacak kadar kek almak isteseydi,",
+        "Question": "kaç tane satın almalı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çıkarma",
+            "#text": "Çarpma işlemi"
+        },
+        "Answer": "6 (kek)",
+        "Formula": "(9-6)*2=6"
+    },
+    {
+        "@ID": "nluds-0230",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Grup topladıkları malzemelerden 65 adet geri dönüştürülmüş malzeme yapabilseydi ve öğretmenler de 28 adet yapabilseydi,",
+        "Question": "fuarda kaç tane geri dönüştürülmüş ürün satabilecekler?",
+        "Solution-Type": "Ek",
+        "Answer": "93 (geri dönüştürülmüş ürünler)",
+        "Formula": "65+28=93"
+    },
+    {
+        "@ID": "nluds-1602",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir postacının 192 adet önemsiz posta dağıtması gerekiyor. 4 bloğa giderse,",
+        "Question": "her bloğa kaç adet önemsiz posta vermeli?",
+        "Solution-Type": "Ortak Bölüm",
+        "Answer": "48 (istenmeyen posta parçaları)",
+        "Formula": "192/4=48"
+    },
+    {
+        "@ID": "nluds-0092",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Daniel'in biraz eriştesi vardı. William'a 12 erişte verdi. Artık Daniel'in yalnızca 54 eriştesi var.",
+        "Question": "Daniel'in başlangıçta kaç eriştesi vardı?",
+        "Solution-Type": "Ek",
+        "Answer": "66 (erişte)",
+        "Formula": "54+12=66"
+    },
+    {
+        "@ID": "nluds-0940",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Otobüste 46 yolcu vardı. 19 yolcu ilk durakta, 15 yolcu ise ikinci durakta indi.",
+        "Question": "Otobüste kaç yolcu kalmıştı?",
+        "Solution-Type": "TVQ-Final",
+        "Answer": "12 (yolcu)",
+        "Formula": "46-19-15=12"
+    },
+    {
+        "@ID": "nluds-0072",
+        "@Grade": "2",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Bobby yirmi altı şeker parçası yedi. Sonra, on yedi tane daha yedi.",
+        "Question": "Bobby kaç parça şeker yedi?",
+        "Solution-Type": "Ek",
+        "Answer": "43 (adet)",
+        "Formula": "26+17=43"
+    },
+    {
+        "@ID": "nluds-1017",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Frankie ve Max şeker mi şaka mı yapmaya gittiler. Frankie 74 parça şeker aldı. Max 92 parça şeker aldı.",
+        "Question": "Max kaç parça şeker daha aldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "18 (şeker parçaları)",
+        "Formula": "92-74=18"
+    },
+    {
+        "@ID": "nluds-0780",
+        "@Grade": "3",
+        "@Source": "http://www.ck12.org",
+        "Body": "Öğretmen 12 öğrenciye eşit olarak 42 adet kalem vermiştir.",
+        "Question": "Her öğrenciye kaç kalem verilmiştir?",
+        "Solution-Type": "Kat Bölümü",
+        "Answer": "3 (kalemler)",
+        "Formula": "42/12=3 r6"
+    },
+    {
+        "@ID": "nluds-1872",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir paketin içinde on sekiz kurabiye vardı. Biraz yedikten sonra dokuz tane kaldı.",
+        "Question": "Kaç tanesi yenildi?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "9 (çerezler)",
+        "Formula": "18-9=9"
+    },
+    {
+        "@ID": "nluds-1999",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Faye ve annesi bahçelerinden havuç topluyorlardı. Faye 23'ü, annesi ise 5'i seçti. Havuçlardan sadece 12'si iyi olsaydı,",
+        "Question": "kaç tane bozuk havuçları vardı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Ek",
+            "#text": "Çıkarma"
+        },
+        "Answer": "16 (kötü havuç)",
+        "Formula": "(23+5)-12=16"
+    },
+    {
+        "@ID": "nluds-2119",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Trivia oyununun ilk yarısında Kaleb kırk üç sayı attı. İkinci yarıda yirmi üç sayı attı.",
+        "Question": "Toplamda kaç puan aldı?",
+        "Solution-Type": "Ek",
+        "Answer": "66 (puan)",
+        "Formula": "43+23=66"
+    },
+    {
+        "@ID": "nluds-1029",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Chris'in 18 futbol kartı var. Arkadaşı Charlie'nin 32 kartı var.",
+        "Question": "Chris'in kaç tane daha az kartı var?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "14 (kart)",
+        "Formula": "32-18=14"
+    },
+    {
+        "@ID": "nluds-0653",
+        "@Grade": "4",
+        "@Source": "http://exam.ciwong.com",
+        "Body": "Shelby'nin 92 adet şekeri vardı. 9 arkadaşına 4’er adet verdi.",
+        "Question": "Shelby'nin elinde kaç parça şeker kaldı?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çarpma işlemi",
+            "#text": "Çıkarma"
+        },
+        "Answer": "56 (şeker parçaları)",
+        "Formula": "92-(4*9)=56"
+    },
+    {
+        "@ID": "nluds-1742",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir mimar toplam on yatak odalı bir ev inşa etti. İkinci katta iki yatak odası olsaydı.",
+        "Question": "Birinci katta kaç yatak odası var?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "8 (yatak odası)",
+        "Formula": "10-2=8"
+    },
+    {
+        "@ID": "nluds-0557",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "37 sepet var. Her sepette 17 elma var.",
+        "Question": "Toplamda kaç tane elma var?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "629 (elma)",
+        "Formula": "37*17=629"
+    },
+    {
+        "@ID": "nluds-1025",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Dev dönme dolap 56 kişi kapasitelidir. Sırada bekleyen 92 kişi var.",
+        "Question": "Bu sefer kaç kişi uçağa binmeyecek?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "36 (kişi)",
+        "Formula": "92-56=36"
+    },
+    {
+        "@ID": "nluds-0281",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Kış neredeyse yaklaşıyor ve hayvanların çoğu daha sıcak ülkelere göç ediyor. Dağın yakınında 67 kuş ailesi yaşıyor. 32 kuş ailesi kış için uçup gitseydi,",
+        "Question": "dağın yakınında kaç kuş ailesi kaldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "35 (kuş familyası)",
+        "Formula": "67-32=35"
+    },
+    {
+        "@ID": "nluds-2113",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir şirket, tanesi 2 dolar olan cep telefonlarına özel bir teklif sunuyordu. Ancak yalnızca 4 ay boyunca ayda 7 dolar harcarsanız.",
+        "Question": "1 telefon alsanız toplam maliyeti ne kadar olur?",
+        "Solution-Type": {
+            "@Subgoal-1": "Çarpma işlemi",
+            "#text": "Ek"
+        },
+        "Answer": "30 (dolar)",
+        "Formula": "7*4+2=30"
+    },
+    {
+        "@ID": "nluds-0312",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Rob ayrıca Empire State Binası ile Petronas Kuleleri'ni de karşılaştırdı.",
+        "Question": "Empire State Binası 443 metre, Petronas Kuleleri ise 452 metre yüksekliğindeyse ikisi arasındaki yükseklik farkı ne kadardır?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "9 (metre)",
+        "Formula": "452-443=9"
+    },
+    {
+        "@ID": "nluds-0205",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Ağaç evi bitirdikten sonra Charlie'nin annesi onlara taze pişmiş kurabiyeler ikram etti. Eğer Charlie 15 kurabiye yerse, babası 10'unu, annesi ise sadece 5'ini yerdi.",
+        "Question": "toplam kaç kurabiye yenildi?",
+        "Solution-Type": "Toplam",
+        "Answer": "30 (çerezler)",
+        "Formula": "15+10+5=30"
+    },
+    {
+        "@ID": "nluds-2120",
+        "@Grade": "2",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Mike'ın altmış dört beyzbol kartı vardı. Doğum gününde on sekiz tane daha aldı.",
+        "Question": "Mike'ın toplam kaç kartı var?",
+        "Solution-Type": "Ek",
+        "Answer": "82 (kartlar)",
+        "Formula": "64+18=82"
+    },
+    {
+        "@ID": "nluds-1797",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Eyalet fuarındaki roller coaster'ın ücreti yolculuk başına 6 bilettir. Eğer 8 arkadaş roller coaster'a binecek olsaydı,",
+        "Question": "kaç bilete ihtiyaçları olacak?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "48 (bilet)",
+        "Formula": "6*8=48"
+    },
+    {
+        "@ID": "nluds-0800",
+        "@Grade": "5",
+        "@Source": "http://www.ck12.org",
+        "Body": "172 öğrenci dağcılık yarışması için takım oluşturuyor. Her takımda 18 öğrenci bulunmalıdır.",
+        "Question": "Kaç takım oluşturabilirler?",
+        "Solution-Type": "Kat Bölümü",
+        "Answer": "9 (takım)",
+        "Formula": "172/18=9 r10"
+    },
+    {
+        "@ID": "nluds-0956",
+        "@Grade": "3",
+        "@Source": "http://www.mathplayground.com",
+        "Body": "Andy'nin 31 beyzbol kartı vardı. Babası ona biraz daha verdi. Sonra Andy'nin 50 beyzbol kartı vardı.",
+        "Question": "Andy babasından kaç tane beyzbol kartı aldı?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "19 (beyzbol kartları)",
+        "Formula": "50-31=19"
+    },
+    {
+        "@ID": "nluds-0433",
+        "@Grade": "3",
+        "@Source": "http://www.k5learning.com",
+        "Body": "Bryan da kitaplarına bir göz attı. 9 kitaplığının her birinde 56 kitap varsa,",
+        "Question": "toplam kaç kitabı var?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "504 (kitaplar)",
+        "Formula": "56*9=504"
+    },
+    {
+        "@ID": "nluds-1767",
+        "@Grade": "3",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Paul en sevdiği kitap serisini okuyordu. Her hafta dört farklı kitap okuyordu.",
+        "Question": "Beş hafta sonra kaç kitap okumuş olurdu?",
+        "Solution-Type": "Çarpma işlemi",
+        "Answer": "20 (kitap)",
+        "Formula": "4*5=20"
+    },
+    {
+        "@ID": "nluds-1964",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bianca, dosyalarını düzenlerken 2 resim, 8 şarkı ve 7 metin dosyasını sildi.",
+        "Question": "Sildiği toplam dosya sayısı nedir?",
+        "Solution-Type": "Toplam",
+        "Answer": "17 (dosyalar)",
+        "Formula": "2+8+7=17"
+    },
+    {
+        "@ID": "nluds-1808",
+        "@Grade": "4",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Debby yedek paralarını yığınlara yerleştiriyordu. Bir destede 4 jeton, diğerinde ise 8 jeton vardı.",
+        "Question": "Toplamda kaç jetonu vardı?",
+        "Solution-Type": "Ek",
+        "Answer": "12 (para)",
+        "Formula": "4+8=12"
+    },
+    {
+        "@ID": "nluds-1874",
+        "@Grade": "1",
+        "@Source": "http://www.commoncoresheets.com",
+        "Body": "Bir mobilya mağazasında on beş sandalye vardı. Biraz sattıktan sonra geriye üç tane kaldı.",
+        "Question": "Kaç sandalye sattılar?",
+        "Solution-Type": "Çıkarma",
+        "Answer": "12 (sandalye)",
+        "Formula": "15-3=12"
+    }
+]

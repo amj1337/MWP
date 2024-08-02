@@ -1,0 +1,1992 @@
+[
+    {
+        "iIndex": 3412,
+        "sQuestion": "Donna 69 pound ağırlığında. Willie 51 pound ağırlığında. Donna, Willie'den ne kadar daha ağır?",
+        "lEquations": [
+            "X=(69.0-51.0)"
+        ],
+        "lSolutions": [
+            18.0
+        ]
+    },
+    {
+        "iIndex": 3779,
+        "sQuestion": "Paul'un sepetinde 28 çilek vardı. 35 tane daha çilek topladı. O zaman kaç tane çileği vardı?",
+        "lEquations": [
+            "X=(28.0+35.0)"
+        ],
+        "lSolutions": [
+            63.0
+        ]
+    },
+    {
+        "iIndex": 3145,
+        "sQuestion": "Scarlett'in ölçüm kabında 0.1666666666666666 su bardağı yağ var. Scarlett 0.666666666666666 su bardağı daha eklerse ölçüm kabında ne kadar yağ olur?",
+        "lEquations": [
+            "0.16666666666666666+0.6666666666666666"
+        ],
+        "lSolutions": [
+            0.8333333333333334
+        ]
+    },
+    {
+        "iIndex": 2834,
+        "sQuestion": "Mike yaz boyunca çimleri biçerek 69 dolar kazandı. Eğer yeni çim biçme makinesi bıçakları almak için 24 dolar harcasaydı, kalan parayla kaç tane 5 dolarlık oyun satın alabilirdi?",
+        "lEquations": [
+            "X=((69.0-24.0)/5.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 3138,
+        "sQuestion": "Bir deniz biyoloğu, 0,3 fit uzunluğunda bir balık ve 0,2 fit uzunluğunda ikinci bir balık ölçtü. İlk balık ne kadar uzundu?",
+        "lEquations": [
+            "0.3-0.2"
+        ],
+        "lSolutions": [
+            0.1
+        ]
+    },
+    {
+        "iIndex": 3546,
+        "sQuestion": "Limon kafaları 6'lı paketler halinde gelir. Louis 54 Limon Kafası yedi. Kaç kutu bütün olarak yemiş ve geriye kaç tane Limon Kafası kalmıştır?",
+        "lEquations": [
+            "X=(54.0/6.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 3775,
+        "sQuestion": "Elisa'nın 37 doları var. 53 dolara sahip olması için kaç dolar daha kazanması gerekiyor?",
+        "lEquations": [
+            "X=(53.0-37.0)"
+        ],
+        "lSolutions": [
+            16.0
+        ]
+    },
+    {
+        "iIndex": 230,
+        "sQuestion": "Okuldaki bir oyun sırasında Jonah büfede görev yapıyordu. İlk devrede 0,25 sürahi limonata, ikinci devrede 0,41666666666666667 sürahi ve üçüncü devrede 0,25 sürahi limonata servis etti. Yunus toplam kaç sürahi limonata döktü?",
+        "lEquations": [
+            "X=0.25+0.4166666666666667+0.25"
+        ],
+        "lSolutions": [
+            "0.9166666666666666"
+        ]
+    },
+    {
+        "iIndex": 2395,
+        "sQuestion": "Sam'in 10 çorabı vardı. Bedenine uymayan 3 eskisini atıp 36 yenisini alırsa kaç çorabının olur?",
+        "lEquations": [
+            "X=((10.0+36.0)-3.0)"
+        ],
+        "lSolutions": [
+            43.0
+        ]
+    },
+    {
+        "iIndex": 3903,
+        "sQuestion": "Isabel 900 parça kağıt satın aldı. 156 adet kağıt kullandı. Kaç tane kağıt parçası kaldı?",
+        "lEquations": [
+            "X=(900.0-156.0)"
+        ],
+        "lSolutions": [
+            744.0
+        ]
+    },
+    {
+        "iIndex": 3450,
+        "sQuestion": "Carlos'un 58 bloğu var. Rachel'a 21 veriyor. Carlos'un kaç bloğu olacak?",
+        "lEquations": [
+            "X=(58.0-21.0)"
+        ],
+        "lSolutions": [
+            37.0
+        ]
+    },
+    {
+        "iIndex": 358,
+        "sQuestion": "Çekmecede 39 adet makas ve 22 adet kalem bulunmaktadır. Dan çekmeceye 13 adet makas yerleştirdi. Şimdi toplamda kaç makas var?",
+        "lEquations": [
+            "X=39+13"
+        ],
+        "lSolutions": [
+            "52"
+        ]
+    },
+    {
+        "iIndex": 883,
+        "sQuestion": "Lena 204 mil sürdü. Bu oranda 10 galon benzin kullanarak, 255 mil sürmek için kaç galon benzine ihtiyacı olur?",
+        "lEquations": [
+            "x=255.0/(204.0/10.0)"
+        ],
+        "lSolutions": [
+            12.5
+        ]
+    },
+    {
+        "iIndex": 150,
+        "sQuestion": "Çok uluslu bir şirketin 2041 yarı zamanlı çalışanı ve 63093 tam zamanlı çalışanı vardır. Şirkette kaç çalışan çalışıyor?",
+        "lEquations": [
+            "X=2041.0+63093.0"
+        ],
+        "lSolutions": [
+            "65134.0"
+        ]
+    },
+    {
+        "iIndex": 3767,
+        "sQuestion": "Randy'nin 78 bloğu var. Bir kule inşa etmek için 19 blok kullanıyor. Kaç blok kaldı?",
+        "lEquations": [
+            "X=(78.0-19.0)"
+        ],
+        "lSolutions": [
+            59.0
+        ]
+    },
+    {
+        "iIndex": 115,
+        "sQuestion": "Tom'un 30 mor balonu var, balonlardan 16'sını Fred'e verdi. Şimdi kaç tane mor balonu var?",
+        "lEquations": [
+            "X=30-16"
+        ],
+        "lSolutions": [
+            "14"
+        ]
+    },
+    {
+        "iIndex": 215,
+        "sQuestion": "Garson vardiyasına başlamadan önce müşterileri için yeterli hardal olup olmadığını kontrol ediyor. Birinci masada 0,25 şişe, ikinci masada 0,25 şişe, üçüncü masada ise 0,375 şişe buluyor. Garson toplam kaç şişe hardal bulur?",
+        "lEquations": [
+            "X=0.25+0.25+0.375"
+        ],
+        "lSolutions": [
+            "0.875"
+        ]
+    },
+    {
+        "iIndex": 3247,
+        "sQuestion": "Bir sonraki perdede birkaç hokkabaz vardı. Her hokkabaz aynı anda 6 topla hokkabazlık yapıyorsa, aynı anda gösteri yapan 378 hokkabaz varsa kaç top gerekir?",
+        "lEquations": [
+            "6*378=x"
+        ],
+        "lSolutions": [
+            2268.0
+        ]
+    },
+    {
+        "iIndex": 3842,
+        "sQuestion": "Üçüncü sınıf öğrencileri 8 otobüsle konsere gitti. Her otobüs 45 öğrenciyi taşıyordu. Konsere kaç öğrenci gitti?",
+        "lEquations": [
+            "X=(8.0*45.0)"
+        ],
+        "lSolutions": [
+            360.0
+        ]
+    },
+    {
+        "iIndex": 2485,
+        "sQuestion": "Katie kolyelerini garaj satışında satıyordu. 4 adet boncuklu kolye ve 3 adet değerli taşlı kolye sattı. Her kolyenin fiyatı 3 dolar olduğuna göre kaç para kazanmıştır?",
+        "lEquations": [
+            "X=(3.0*(4.0+3.0))"
+        ],
+        "lSolutions": [
+            21.0
+        ]
+    },
+    {
+        "iIndex": 3291,
+        "sQuestion": "Bir DVD kitabında 126 DVD bulunur. Kitapta halihazırda 81 DVD var. Kitaba kaç DVD daha yerleştirilebilir?",
+        "lEquations": [
+            "126-81=x"
+        ],
+        "lSolutions": [
+            45.0
+        ]
+    },
+    {
+        "iIndex": 2323,
+        "sQuestion": "Vanessa'nın flash sürücüsünde 16 müzik dosyası ve 48 video dosyası vardı. Dosyalardan 30'unu sildiyse flash sürücüsünde hâlâ kaç dosya vardı?",
+        "lEquations": [
+            "X=((16.0+48.0)-30.0)"
+        ],
+        "lSolutions": [
+            34.0
+        ]
+    },
+    {
+        "iIndex": 3305,
+        "sQuestion": "Bay Guzman, 4 kutuya eşit şekilde paketlenmiş 48 çörek satın aldı. Her kutuda kaç tane donut vardı?",
+        "lEquations": [
+            "48/4=x"
+        ],
+        "lSolutions": [
+            12.0
+        ]
+    },
+    {
+        "iIndex": 3827,
+        "sQuestion": "Bir DVD kitabında 126 DVD bulunur. Kitapta halihazırda 81 DVD var. Kitaba kaç DVD daha yerleştirilebilir?",
+        "lEquations": [
+            "X=(126.0-81.0)"
+        ],
+        "lSolutions": [
+            45.0
+        ]
+    },
+    {
+        "iIndex": 3555,
+        "sQuestion": "Sean'ın 9 elması var. Susan, Sean'a 8 tane daha verir. Daha sonra Sean mağazadan 18 bilet satın alır. Sean'ın toplam kaç elması var?",
+        "lEquations": [
+            "X=(9.0+8.0)"
+        ],
+        "lSolutions": [
+            17.0
+        ]
+    },
+    {
+        "iIndex": 2374,
+        "sQuestion": "Okulun pasta satışı için Bianca 14 kek yaptı. Bunlardan 6 tanesini satıp 17 tane daha yaparsa kaç tane keki olur?",
+        "lEquations": [
+            "X=((14.0+17.0)-6.0)"
+        ],
+        "lSolutions": [
+            25.0
+        ]
+    },
+    {
+        "iIndex": 148,
+        "sQuestion": "Tahıl dolu bir gemi mercan resifine çarpar. Gemi tamir edilene kadar 49952 ton tahıl suya dökülmüştür. Gemide sadece 918 ton tahıl kalmıştır. Gemi başlangıçta kaç ton tahıl içeriyordu?",
+        "lEquations": [
+            "X=49952.0+918.0"
+        ],
+        "lSolutions": [
+            "50870.0"
+        ]
+    },
+    {
+        "iIndex": 2503,
+        "sQuestion": "Megan kolyelerini garaj satışında satıyordu. 7 adet boncuklu kolye ve 3 adet değerli taşlı kolye sattı. Her kolyenin fiyatı 9 dolar olduğuna göre kaç para kazanmıştır?",
+        "lEquations": [
+            "X=(9.0*(7.0+3.0))"
+        ],
+        "lSolutions": [
+            90.0
+        ]
+    },
+    {
+        "iIndex": 2629,
+        "sQuestion": "Luke, kafeterya çalışanlarına öğle yemeği tepsilerini toplamalarında yardım ediyordu, ancak bir seferde yalnızca 4 tepsi taşıyabiliyordu. Bir masadan 20 tepsi ve diğerinden 16 tepsi alması gerekirse, kaç sefer yapacaktır?",
+        "lEquations": [
+            "X=((20.0+16.0)/4.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 218,
+        "sQuestion": "Brandy sırt çantalı bir gezi için patika karışımı hazırladı. 0,16666666666666666 pound fıstık, 0,166666666666666666 pound çikolata parçacıkları ve 0,08333333333333333 pound kuru üzüm kullandı. Brandy kaç kiloluk deneme karışımı yaptı?",
+        "lEquations": [
+            "X=0.16666666666666666+0.16666666666666666+0.08333333333333333"
+        ],
+        "lSolutions": [
+            "0.4166666666666667"
+        ]
+    },
+    {
+        "iIndex": 3284,
+        "sQuestion": "Karen'ın 639 boya kalemi var. Cindy'nin 504 boya kalemi var. Karen'ın Cindy'den kaç tane daha fazla boya kalemi var?",
+        "lEquations": [
+            "639-504=x"
+        ],
+        "lSolutions": [
+            135.0
+        ]
+    },
+    {
+        "iIndex": 3365,
+        "sQuestion": "Bir kutuda 7 boya kalemi varsa ve Gerald içine 6 boya kalemi daha koyarsa kutuda kaç boya kalemi vardır?",
+        "lEquations": [
+            "X=(7.0+6.0)"
+        ],
+        "lSolutions": [
+            13.0
+        ]
+    },
+    {
+        "iIndex": 2306,
+        "sQuestion": "Vanessa'nın flash belleğinde 13 müzik dosyası ve 30 video dosyası vardı. Dosyaların 10'unu sildiyse, flash belleğinde hala kaç dosya vardı?",
+        "lEquations": [
+            "X=((13.0+30.0)-10.0)"
+        ],
+        "lSolutions": [
+            33.0
+        ]
+    },
+    {
+        "iIndex": 3719,
+        "sQuestion": "Tommy'nin birkaç balonu vardı. Annesi ona doğum günü için 34 balon daha verdi. Daha sonra Tommy'nin 60 balonu vardı. Tommy'nin başlangıçta kaç balonla başlaması gerekiyordu?",
+        "lEquations": [
+            "X=(60.0-34.0)"
+        ],
+        "lSolutions": [
+            26.0
+        ]
+    },
+    {
+        "iIndex": 155,
+        "sQuestion": "Şu ana kadar bir meyve bahçesi bu sezon toplam 9792 pound taze ve dondurulmuş meyve sattı. 3513 pound dondurulmuş meyve sattılarsa, şu ana kadar kaç pound taze meyve satıldı?",
+        "lEquations": [
+            "X=9792.0-3513.0"
+        ],
+        "lSolutions": [
+            "6279.0"
+        ]
+    },
+    {
+        "iIndex": 2660,
+        "sQuestion": "Yeni bir binanın 10 pencereye ihtiyacı vardı. İnşaatçı zaten bunlardan 6 tanesini kurmuştu. Her bir pencerenin montajı 5 saat sürüyorsa, geri kalanların montajı ne kadar sürer?",
+        "lEquations": [
+            "X=(5.0*(10.0-6.0))"
+        ],
+        "lSolutions": [
+            20.0
+        ]
+    },
+    {
+        "iIndex": 286,
+        "sQuestion": "Alyssa 25, Mike ise 32 limon topladı. Tom 12 erik topladı. Toplamda kaç limon toplandı?",
+        "lEquations": [
+            "X=25+32"
+        ],
+        "lSolutions": [
+            "57"
+        ]
+    },
+    {
+        "iIndex": 3055,
+        "sQuestion": "Tim ayakkabı parlatma karşılığında 3 sent ve 13 sent aldı ve bahşiş kavanozunda 7 sent ve 9 yarım dolar buldu. Tim ne kadar para aldı?",
+        "lEquations": [
+            "(3*0.05)+(13*0.1)+(7*0.1)+(9*0.5)=x"
+        ],
+        "lSolutions": [
+            6.65
+        ]
+    },
+    {
+        "iIndex": 3476,
+        "sQuestion": "Her şişe kapağının maliyeti 5,00 dolardır. 5 şişe kapağının fiyatı ne kadar?",
+        "lEquations": [
+            "X=(5.0*5.0)"
+        ],
+        "lSolutions": [
+            25.0
+        ]
+    },
+    {
+        "iIndex": 3367,
+        "sQuestion": "Anna 6 blok topluyor. Anna'nın babası Anna'ya 8 tane daha verir. Anna'nın kaç bloğu var?",
+        "lEquations": [
+            "X=(6.0+8.0)"
+        ],
+        "lSolutions": [
+            14.0
+        ]
+    },
+    {
+        "iIndex": 3018,
+        "sQuestion": "Dan kek pişirmek için marketten 9 düzine yumurta aldı.  Dan kaç yumurta aldı?",
+        "lEquations": [
+            "9*12=x"
+        ],
+        "lSolutions": [
+            108.0
+        ]
+    },
+    {
+        "iIndex": 2876,
+        "sQuestion": "Bugün bir restoran öğle yemeğinde 5, akşam yemeğinde 6 kek servis etti. Restoran dün 3 kek servis etti. Toplamda kaç adet pasta servis edildi?",
+        "lEquations": [
+            "5+6+3=x"
+        ],
+        "lSolutions": [
+            14.0
+        ]
+    },
+    {
+        "iIndex": 2658,
+        "sQuestion": "Bir video oyununda mağlup ettiğiniz her düşman size 9 puan verir. Bir seviyede toplam 11 düşman varsa ve 3'ü hariç hepsini yok ederseniz kaç puan kazanırsınız?",
+        "lEquations": [
+            "X=(9.0*(11.0-3.0))"
+        ],
+        "lSolutions": [
+            72.0
+        ]
+    },
+    {
+        "iIndex": 2795,
+        "sQuestion": "Will'in yıkaması gereken 59 parça giysisi vardı. Bunlardan 32'sini tek yüke koydu ama geri kalanını 9 eşit yüke bölmeye karar verdi. Küçük yüklerin her birine kaç parça giysi sığabilir?",
+        "lEquations": [
+            "X=((59.0-32.0)/9.0)"
+        ],
+        "lSolutions": [
+            3.0
+        ]
+    },
+    {
+        "iIndex": 3615,
+        "sQuestion": "Amanda'nın Kimberly'nin evine saatte 3 kilometre hızla yürümesi 5 saat sürdü. Amanda'nın evi ile Kimberly'nin evi arasındaki mesafe ne kadar?",
+        "lEquations": [
+            "X=(5.0*2.0)"
+        ],
+        "lSolutions": [
+            10.0
+        ]
+    },
+    {
+        "iIndex": 2451,
+        "sQuestion": "Oyuna 2 oyuncu daha katıldığında 7 arkadaş çevrimiçi video oyunu oynuyordu. Her oyuncunun 7 canı varsa, toplamda kaç canları vardı?",
+        "lEquations": [
+            "X=(7.0*(7.0+2.0))"
+        ],
+        "lSolutions": [
+            63.0
+        ]
+    },
+    {
+        "iIndex": 2742,
+        "sQuestion": "3 oyuncu oyundan çıktığında 8 arkadaş çevrimiçi video oyunu oynuyordu. Kalan her oyuncunun 3 canı varsa, toplam kaç canları vardı?",
+        "lEquations": [
+            "X=(3.0*(8.0-3.0))"
+        ],
+        "lSolutions": [
+            15.0
+        ]
+    },
+    {
+        "iIndex": 2810,
+        "sQuestion": "Roger'ın yıkaması gereken 120 parça giysi vardı. 48 tanesini tek seferde yıkadı ancak kalanını 9 eşit yüke bölmeye karar verdi. Her küçük yüke kaç parça giysi sığabilirdi?",
+        "lEquations": [
+            "X=((120.0-48.0)/9.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 3854,
+        "sQuestion": "Bayan Hilt masasından su çeşmesine kadar olan mesafeyi ölçtü. 30 metreydi. Bayan Hilt bugün 4 kez çeşmeye giderse çeşmeye yaptığı gezilerde kaç metre yürür?",
+        "lEquations": [
+            "X=(30.0*4.0)"
+        ],
+        "lSolutions": [
+            120.0
+        ]
+    },
+    {
+        "iIndex": 281,
+        "sQuestion": "Çekmecede 41 adet boya kalemi ve 26 adet kalem bulunmaktadır. Sam çekmeceye 12 boya kalemi yerleştirdi. Şimdi toplamda kaç tane boya kalemi var?",
+        "lEquations": [
+            "X=41+12"
+        ],
+        "lSolutions": [
+            "53"
+        ]
+    },
+    {
+        "iIndex": 3786,
+        "sQuestion": "Bir bahçede 52 sıra ve 15 sütundan oluşan fasulye planları vardır. Toplamda kaç bitki vardır?",
+        "lEquations": [
+            "X=(52.0*15.0)"
+        ],
+        "lSolutions": [
+            780.0
+        ]
+    },
+    {
+        "iIndex": 2248,
+        "sQuestion": "Okul kafeteryasında öğrencilerin öğle yemekleri için 42 kırmızı elma ve 7 yeşil elma sipariş edildi. Peki, eğer sadece 9 öğrenci meyve isterse, kafeteryaya fazladan kaç tane meyve gelirdi?",
+        "lEquations": [
+            "X=((42.0+7.0)-9.0)"
+        ],
+        "lSolutions": [
+            40.0
+        ]
+    },
+    {
+        "iIndex": 2355,
+        "sQuestion": "Bir öğretmenin not vermesi gereken 7 çalışma sayfası vardı. Eğer 2 not verdiyse ve daha sonra 46 not daha verdiyse, kaç çalışma sayfasına not vermesi gerekecekti?",
+        "lEquations": [
+            "X=((7.0+46.0)-2.0)"
+        ],
+        "lSolutions": [
+            51.0
+        ]
+    },
+    {
+        "iIndex": 2483,
+        "sQuestion": "Kasaba karnavalında Oliver dönme dolaba 5 kez, çarpışan arabalara ise 4 kez bindi. Her yolculuğun fiyatı 7 bilet olduğuna göre kaç bilet kullanmıştır?",
+        "lEquations": [
+            "X=(7.0*(5.0+4.0))"
+        ],
+        "lSolutions": [
+            63.0
+        ]
+    },
+    {
+        "iIndex": 357,
+        "sQuestion": "Tom'un bankasında 27 peni ve 15 senti vardı. Babası ona 33 sent ve 49 sent verdi. Şimdi kaç kuruş parası var?",
+        "lEquations": [
+            "X=15+33"
+        ],
+        "lSolutions": [
+            "48"
+        ]
+    },
+    {
+        "iIndex": 3239,
+        "sQuestion": "Bryan'ın gezdiği 4 kıtadan da kitaplar gelmişse ve her kıtada 122 kitap toplamışsa, 4 kıtanın toplamından kaç kitabı vardır?",
+        "lEquations": [
+            "4*122=x"
+        ],
+        "lSolutions": [
+            488.0
+        ]
+    },
+    {
+        "iIndex": 2825,
+        "sQuestion": "Bir şirket 24 kişiyi öğle yemeğine davet etti ancak 10'u gelmedi. Her biri 7 kişilik olan masalara kaç tane masa lazımdı?",
+        "lEquations": [
+            "X=((24.0-10.0)/7.0)"
+        ],
+        "lSolutions": [
+            2.0
+        ]
+    },
+    {
+        "iIndex": 2863,
+        "sQuestion": "Tom'un 9 sarı balonu var. Sara'nın 8 sarı balonu var. Toplamda kaç tane sarı balon var?",
+        "lEquations": [
+            "9+8=x"
+        ],
+        "lSolutions": [
+            17.0
+        ]
+    },
+    {
+        "iIndex": 3868,
+        "sQuestion": "24 kurabiyeniz var ve bunları 6 kişiye eşit olarak paylaşmak istiyorsunuz. Her kişiye kaç kurabiye verilir?",
+        "lEquations": [
+            "X=(24.0/6.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 2823,
+        "sQuestion": "Sarah bahçesine sebze ekiyordu. 21 tohumla başladı ve bunlardan 12 tanesini büyük bahçesine, küçük bahçelerinin her birine ise 3'er tohum koydu. Sarah'nın kaç tane küçük bahçesi vardı?",
+        "lEquations": [
+            "X=((21.0-12.0)/3.0)"
+        ],
+        "lSolutions": [
+            3.0
+        ]
+    },
+    {
+        "iIndex": 446,
+        "sQuestion": "Jordan '52 model bir Mustang üretiyor. Model arabanın uzunluğu 7 inç ve ölçeği 1'den 18'e kadar ise gerçek Mustang kaç inç olur?",
+        "lEquations": [
+            "7.0*18.0=x"
+        ],
+        "lSolutions": [
+            126.0
+        ]
+    },
+    {
+        "iIndex": 2563,
+        "sQuestion": "Debby'nin sınıfı hayvanat bahçesine geziye gidiyor. Her minibüs 4 kişiyi alabiliyorsa ve 2 öğrenci ve 6 yetişkin gidiyorsa, kaç tane minibüse ihtiyaçları olacak?",
+        "lEquations": [
+            "X=((2.0+6.0)/4.0)"
+        ],
+        "lSolutions": [
+            2.0
+        ]
+    },
+    {
+        "iIndex": 7,
+        "sQuestion": "Joan bu sene 4 futbol maçına gitti. Geçen sene 9 maça çıktı. Joan toplam kaç futbol maçına gitti?",
+        "lEquations": [
+            "X=4+9"
+        ],
+        "lSolutions": [
+            "13"
+        ]
+    },
+    {
+        "iIndex": 2972,
+        "sQuestion": "Parkta şu anda 2 adet gül fidanı bulunmaktadır. Park çalışanları bugün 4 gül fidanı daha dikecek. İşçilerin işi bittiğinde parkta kaç tane gül fidanı olacak?",
+        "lEquations": [
+            "2+4=x"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 3803,
+        "sQuestion": "Green Bay Lisesi atletizm takımında 5 kişi var. Bir bayrak yarışı 150 metre uzunluğundaysa, her takım üyesinin ne kadar koşması gerekir?",
+        "lEquations": [
+            "X=(150.0/5.0)"
+        ],
+        "lSolutions": [
+            30.0
+        ]
+    },
+    {
+        "iIndex": 3157,
+        "sQuestion": "Shannon'ın apartman kompleksindeki dairelerin 0,166666666666666666'sı tek yatak odalı daireler ve 0,3333333333333333'ü iki yatak odalı dairelerdir. Dairelerin yüzde kaçı bir veya iki yatak odalı dairelerden oluşuyor?",
+        "lEquations": [
+            "0.16666666666666666+0.3333333333333333"
+        ],
+        "lSolutions": [
+            0.5
+        ]
+    },
+    {
+        "iIndex": 2552,
+        "sQuestion": "Paige ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı. Geri dönüştürdükleri her 4 pound için bir puan kazandılar. Paige 14 poundu ve arkadaşları da 2 poundu geri dönüştürdüyse, kaç puan kazandılar?",
+        "lEquations": [
+            "X=((14.0+2.0)/4.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 3606,
+        "sQuestion": "Charles saatte 3 mil hızla 6 mil yürüdüyse, Charles ne kadar süre yolculuk yaptı?",
+        "lEquations": [
+            "X=(6.0/3.0)"
+        ],
+        "lSolutions": [
+            2.0
+        ]
+    },
+    {
+        "iIndex": 3449,
+        "sQuestion": "Ruth 89 elmayla başlıyor. Peter'la 5'ini paylaşıyor. Ruth'un sonu kaç elmadır?",
+        "lEquations": [
+            "X=(89.0-5.0)"
+        ],
+        "lSolutions": [
+            84.0
+        ]
+    },
+    {
+        "iIndex": 3600,
+        "sQuestion": "Ernest'in kutulara atılması gereken 45 muzu var. Julie yardıma gelir ve Ernest'le paylaşmak üzere 3 kurabiye getirir. 5 kutu varsa her kutuya kaç muz düşmelidir?",
+        "lEquations": [
+            "X=(45.0/5.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 139,
+        "sQuestion": "Abe'nin ailesi Bahamalar'dan Japonya'ya taşınmıştı, dolayısıyla paralarını Japon yenine çevirmişlerdi. Çek hesaplarında şu anda 6359 yen ve tasarruf hesaplarında şu anda 3485 yen var. Kaç yenleri var?",
+        "lEquations": [
+            "X=6359.0+3485.0"
+        ],
+        "lSolutions": [
+            "9844.0"
+        ]
+    },
+    {
+        "iIndex": 2656,
+        "sQuestion": "Restoranda her yetişkin yemeğinin fiyatı 3 dolar, çocuklar ise bedava yemek yiyor. 12 kişilik bir grup gelse ve 7'si çocuk olsa, grubun yemek masrafı ne kadar olur?",
+        "lEquations": [
+            "X=(3.0*(12.0-7.0))"
+        ],
+        "lSolutions": [
+            15.0
+        ]
+    },
+    {
+        "iIndex": 3798,
+        "sQuestion": "Ted'in 15 tane çikolatası var. Bunları 5 torbaya koymak istiyor, böylece her torbada aynı sayıda şeker var. Her torbaya kaç tane şekerleme konulmalıdır?",
+        "lEquations": [
+            "X=(15.0/5.0)"
+        ],
+        "lSolutions": [
+            3.0
+        ]
+    },
+    {
+        "iIndex": 3537,
+        "sQuestion": "Karen 36 kutu Tagalong satmışsa, kurabiye annesinden kaç tane 12 kutuluk paket alır?",
+        "lEquations": [
+            "X=(36.0/12.0)"
+        ],
+        "lSolutions": [
+            3.0
+        ]
+    },
+    {
+        "iIndex": 361,
+        "sQuestion": "Mary'nin 33 Pokemon kartı vardı ve 6'sı yırtılmıştı. Sam, Mary'ye 23 yeni Pokemon kartı verdi. Mary'nin şu anda kaç tane Pokemon kartı var?",
+        "lEquations": [
+            "X=33+23"
+        ],
+        "lSolutions": [
+            "56"
+        ]
+    },
+    {
+        "iIndex": 3692,
+        "sQuestion": "Bayan Heine, 2 köpeği için Sevgililer Günü ikramları alıyor. Her birine 3'er adet kalpli bisküvi almak isterse kaç tane bisküvi alması gerekir?",
+        "lEquations": [
+            "X=(2.0*3.0)"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 3743,
+        "sQuestion": "Joe'nun 50 oyuncak arabası vardı. 12 araba daha alırsa kaç arabası olur?",
+        "lEquations": [
+            "X=(50.0+12.0)"
+        ],
+        "lSolutions": [
+            62.0
+        ]
+    },
+    {
+        "iIndex": 2555,
+        "sQuestion": "Okulun münazara takımında 11 erkek ve 45 kız vardı. 7'şerli gruplara ayrılırlarsa kaç grup oluşturabilirler?",
+        "lEquations": [
+            "X=((11.0+45.0)/7.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 2763,
+        "sQuestion": "Cadılar Bayramı için Sarah 108 parça şeker aldı. 36 parçayı yedi ve geri kalanını her yığında 9 adet olacak şekilde yığınlara yerleştirdi. Kaç tane kazık yapabilirdi?",
+        "lEquations": [
+            "X=((108.0-36.0)/9.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 3597,
+        "sQuestion": "Scott'un kutulara konulması gereken 56 portakalı var. Terry yardıma gelir ve Scott'la paylaşmak üzere 11 kurabiye getirir. 8 kutu varsa her kutuya kaç portakal düşmelidir?",
+        "lEquations": [
+            "X=(56.0/8.0)"
+        ],
+        "lSolutions": [
+            7.0
+        ]
+    },
+    {
+        "iIndex": 2388,
+        "sQuestion": "Edward'ın 43 kitabı vardı. Bunlardan 19'unu satıp kazandığı parayı 14 yeni kitap almak için kullansaydı, Edward'ın kaç kitabı olurdu?",
+        "lEquations": [
+            "X=((43.0+14.0)-19.0)"
+        ],
+        "lSolutions": [
+            38.0
+        ]
+    },
+    {
+        "iIndex": 2886,
+        "sQuestion": "Çekmecede 41 kalem var. Mike çekmeceye 30 kalem daha koydu. Şimdi toplam kaç kalem var?",
+        "lEquations": [
+            "41+30=x"
+        ],
+        "lSolutions": [
+            71.0
+        ]
+    },
+    {
+        "iIndex": 3679,
+        "sQuestion": "30 köpek havlıyor. 10 köpek daha havlamaya başlıyor. Kaç köpek havlıyor?",
+        "lEquations": [
+            "X=(30.0+10.0)"
+        ],
+        "lSolutions": [
+            40.0
+        ]
+    },
+    {
+        "iIndex": 2958,
+        "sQuestion": "Nancy, Melanie, Mary ve Alyssa'nın her biri 20'li paketler halinde gelen 540 beyzbol kartı satın aldı. Toplamda kaç paket beyzbol kartı var?",
+        "lEquations": [
+            "(4*540)/20=x"
+        ],
+        "lSolutions": [
+            108.0
+        ]
+    },
+    {
+        "iIndex": 3303,
+        "sQuestion": "Her topun maliyeti 1,54 dolar olduğuna göre Kyoko'nun 3 top için ne kadar ödemesi gerekir?",
+        "lEquations": [
+            "1.54*3=x"
+        ],
+        "lSolutions": [
+            4.62
+        ]
+    },
+    {
+        "iIndex": 3272,
+        "sQuestion": "Brenda'nın komşusu Shannon, bilezik yapımında Brenda'ya katıldı. 48 adet kalp şeklinde taş getirmiş ve yaptığı her bileklikte bu taş türünden 8 adet olmasını istemiştir. Shannon kalp şeklinde taşlardan kaç tane bilezik yapabilir?",
+        "lEquations": [
+            "48/8=x"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 3383,
+        "sQuestion": "Kevin 7 kartla başlıyor. Başka bir 47 kart bulur. Kevin'in sonu kaç karttır?",
+        "lEquations": [
+            "X=(7.0+47.0)"
+        ],
+        "lSolutions": [
+            54.0
+        ]
+    },
+    {
+        "iIndex": 2303,
+        "sQuestion": "Vanessa ve annesi bahçelerinden havuç topluyorlardı. Vanessa 17'yi, annesi ise 14'ü seçti. Havuçların sadece 24'ü iyi olsaydı, kaç tane kötü havuç olurdu?",
+        "lEquations": [
+            "X=((17.0+14.0)-24.0)"
+        ],
+        "lSolutions": [
+            7.0
+        ]
+    },
+    {
+        "iIndex": 3334,
+        "sQuestion": "Lucy'nin 212 balıklı bir akvaryumu var. Lucy 68 balık daha almak istiyor. O zaman Lucy'nin kaç balığı olur?",
+        "lEquations": [
+            "212+68=x"
+        ],
+        "lSolutions": [
+            280.0
+        ]
+    },
+    {
+        "iIndex": 2336,
+        "sQuestion": "'The Greasy Spoon' restoranındaki garsonun 26 müşterisi vardı. Öğle yemeği telaşı sırasında 27 müşteri daha ekledi. Müşterilerden 27'si ona bahşiş bırakmadıysa, kaç müşteri bahşiş bıraktı?",
+        "lEquations": [
+            "X=((26.0+27.0)-27.0)"
+        ],
+        "lSolutions": [
+            26.0
+        ]
+    },
+    {
+        "iIndex": 3566,
+        "sQuestion": "Arthur'un 6 kartı var. Aaron'un elinde 5 kart var. Aaron 62 tane daha bulur. Aaron'un sonu kaç karttır?",
+        "lEquations": [
+            "X=(5.0+62.0)"
+        ],
+        "lSolutions": [
+            67.0
+        ]
+    },
+    {
+        "iIndex": 2619,
+        "sQuestion": "Amy'nin ödev olarak 18 matematik problemi ve 6 yazım problemi vardı. Eğer 4 problemi bir saatte bitirirse, tüm problemleri bitirmesi ne kadar sürer?",
+        "lEquations": [
+            "X=((18.0+6.0)/4.0)"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 2930,
+        "sQuestion": "Çekmecede 54 adet makas bulunmaktadır. Keith çekmeceye 22 tane daha makas koydu. Şimdi toplam kaç tane makas var?",
+        "lEquations": [
+            "54+22=x"
+        ],
+        "lSolutions": [
+            76.0
+        ]
+    },
+    {
+        "iIndex": 3799,
+        "sQuestion": "Bir şekerci dükkanında 6 kutu çikolata vardır. Her kutuda 500 adet bulunmaktadır. Kutularda toplam kaç adet var?",
+        "lEquations": [
+            "X=(6.0*500.0)"
+        ],
+        "lSolutions": [
+            3000.0
+        ]
+    },
+    {
+        "iIndex": 2936,
+        "sQuestion": "Mary portakal ağacından 122 portakal, Jason ise 105 portakal topladı. Toplamda kaç portakal toplandı?",
+        "lEquations": [
+            "122+105=x"
+        ],
+        "lSolutions": [
+            227.0
+        ]
+    },
+    {
+        "iIndex": 2801,
+        "sQuestion": "Wendy Facebook'a 45 fotoğraf yükledi. 27 fotoğrafını bir albüme, geri kalanını ise 9 farklı albüme koydu. Her albümde kaç fotoğraf vardı?",
+        "lEquations": [
+            "X=((45.0-27.0)/9.0)"
+        ],
+        "lSolutions": [
+            2.0
+        ]
+    },
+    {
+        "iIndex": 3623,
+        "sQuestion": "Mark saatte 6 mil hızla 24 mil koştu. Mark ne kadar süre koştu?",
+        "lEquations": [
+            "X=(24.0/6.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 3386,
+        "sQuestion": "Mary 27 yumurtayla başlıyor. 4 tane daha bulur. Meryem'in sonu kaç yumurta olur?",
+        "lEquations": [
+            "X=(27.0+4.0)"
+        ],
+        "lSolutions": [
+            31.0
+        ]
+    },
+    {
+        "iIndex": 222,
+        "sQuestion": "Nina futbol sezonu için form kazanmak amacıyla koşu antrenmanı yaptı. İlk olarak Nina 0,08333333333333333 mil koştu. Sonra 0,0833333333333333 mil ve 0,666666666666666 mil koştu. Nina toplamda kaç mil koştu?",
+        "lEquations": [
+            "X=0.08333333333333333+0.08333333333333333+0.6666666666666666"
+        ],
+        "lSolutions": [
+            "0.8333333333333334"
+        ]
+    },
+    {
+        "iIndex": 3869,
+        "sQuestion": "120 sayfalık bir kitap okuyorsunuz. Her gece aynı sayıda sayfa okumak istiyorsanız, 10 günde bitirmek için her gece kaç sayfa okumanız gerekir?",
+        "lEquations": [
+            "X=(120.0/10.0)"
+        ],
+        "lSolutions": [
+            12.0
+        ]
+    },
+    {
+        "iIndex": 3191,
+        "sQuestion": "Karin'in fen dersi, bir deney için plastik halkaları tartıyordu. Turuncu halkanın 0,08333333333333333 ons, mor halkanın 0,3333333333333333 ons ve beyaz halkanın 0,4166666666666667 ons ağırlığında olduğunu buldular. Plastik halkaların toplam ağırlığı ne kadardı?",
+        "lEquations": [
+            "0.08333333333333333+0.3333333333333333+0.4166666666666667"
+        ],
+        "lSolutions": [
+            0.8333333333333334
+        ]
+    },
+    {
+        "iIndex": 2710,
+        "sQuestion": "Bir kutudaki her çikolatanın fiyatı 4 dolardır. Bir kutuda toplam 11 bar olsaydı ve Vanessa 7 bar dışında hepsini satsaydı ne kadar para kazanırdı?",
+        "lEquations": [
+            "X=(4.0*(11.0-7.0))"
+        ],
+        "lSolutions": [
+            16.0
+        ]
+    },
+    {
+        "iIndex": 200,
+        "sQuestion": "Miki ve kız kardeşi kumsalda kumdan kaleler yapıp boylarını ölçtüler. Miki'nin kumdan kalesi 0,8333333333333334 fit uzunluğundaydı ve kız kardeşininki 0,5 fit uzunluğundaydı. Miki'nin kumdan kalesi kız kardeşininkinden ne kadar uzundu?",
+        "lEquations": [
+            "X=0.8333333333333334-0.5"
+        ],
+        "lSolutions": [
+            "0.3333333333333333"
+        ]
+    },
+    {
+        "iIndex": 2743,
+        "sQuestion": "Sam 9 arkadaşını bir doğum günü partisine davet etti ancak 6'sı gelemedi. Her kişinin tam 2 tane alabileceği kadar kek satın almak isteseydi, kaç tane satın almalıydı?",
+        "lEquations": [
+            "X=(2.0*(9.0-6.0))"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 2423,
+        "sQuestion": "Frank'in 11 doları vardı. Mağazada yeni bir oyuna 3 dolar harcadı. Harçlığı olarak 14 dolar daha aldıysa şimdi ne kadar parası vardır?",
+        "lEquations": [
+            "X=((11.0+14.0)-3.0)"
+        ],
+        "lSolutions": [
+            22.0
+        ]
+    },
+    {
+        "iIndex": 2476,
+        "sQuestion": "Megan, internetten müzik alışverişi yaparken 2 country albümü ve 8 pop albümü satın aldı. Her albüm bir şarkı sözü sayfasıyla birlikte geldi ve 7 şarkıdan oluşuyordu. Megan toplam kaç şarkı satın aldı?",
+        "lEquations": [
+            "X=(7.0*(2.0+8.0))"
+        ],
+        "lSolutions": [
+            70.0
+        ]
+    },
+    {
+        "iIndex": 351,
+        "sQuestion": "Nancy bu ay 9 futbol maçına gitti. Geçen ay 8 maça çıktı, gelecek ay da 7 maça çıkmayı planlıyor. Biletlere 3 dolar ödedi. Toplamda kaç maça katılacak?",
+        "lEquations": [
+            "X=9+8+7"
+        ],
+        "lSolutions": [
+            "24"
+        ]
+    },
+    {
+        "iIndex": 2484,
+        "sQuestion": "5 arkadaş çevrimiçi bir video oyunu oynarken oyuna 2 oyuncu daha katıldı. Her oyuncunun 8 canı varsa, toplam kaç canları vardı?",
+        "lEquations": [
+            "X=(8.0*(5.0+2.0))"
+        ],
+        "lSolutions": [
+            56.0
+        ]
+    },
+    {
+        "iIndex": 3475,
+        "sQuestion": "Her bilet 9.00$. 4 biletin fiyatı ne kadar?",
+        "lEquations": [
+            "X=(9.0*4.0)"
+        ],
+        "lSolutions": [
+            36.0
+        ]
+    },
+    {
+        "iIndex": 172,
+        "sQuestion": "Milford Gölü başlangıçta maviydi çünkü içinde yalnızca 809 alg bitkisi vardı. Artık 3263 yosun bitkisi var ve göl yeşile döndü. Milford Gölü'nde şu anda kaç tane daha alg bitkisi var?",
+        "lEquations": [
+            "X=3263.0-809.0"
+        ],
+        "lSolutions": [
+            "2454.0"
+        ]
+    },
+    {
+        "iIndex": 22,
+        "sQuestion": "Melanie 4 erik topladı, Dan 9 erik topladı ve Sally erik ağacından 3 erik topladı. Toplamda kaç erik toplandı?",
+        "lEquations": [
+            "X=4+9+3"
+        ],
+        "lSolutions": [
+            "16"
+        ]
+    },
+    {
+        "iIndex": 3068,
+        "sQuestion": "Jason okulunun grubuna katıldı. 142,46 dolara bir flüt, 8,89 dolara bir nota sehpası ve 7 dolara bir şarkı kitabı satın aldı. Jason müzik mağazasında ne kadar harcadı?",
+        "lEquations": [
+            "142.46+8.89+7=x"
+        ],
+        "lSolutions": [
+            158.35
+        ]
+    },
+    {
+        "iIndex": 3425,
+        "sQuestion": "Larry 93 çıkartmayla başlıyor. 6 kaybeder. Larry kaç çıkartmayla bitirir?",
+        "lEquations": [
+            "X=(93.0-6.0)"
+        ],
+        "lSolutions": [
+            87.0
+        ]
+    },
+    {
+        "iIndex": 3890,
+        "sQuestion": "Arthur 115 kek pişirdi. James 12 kat daha fazla pişirdi. James kaç tane kek pişirdi?",
+        "lEquations": [
+            "X=(115.0*12.0)"
+        ],
+        "lSolutions": [
+            1380.0
+        ]
+    },
+    {
+        "iIndex": 2760,
+        "sQuestion": "Okulun trivia takımlarına katılmaya çalışan 65 öğrenci var. Bunlardan 17 tanesi takıma seçilmeyip geri kalanlar 8 gruba ayrılırsa her grupta kaç öğrenci olur?",
+        "lEquations": [
+            "X=((65.0-17.0)/8.0)"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 2872,
+        "sQuestion": "Sally 9 deniz kabuğu buldu, Tom 7 deniz kabuğu buldu ve Jessica sahilde 5 deniz kabuğu buldu. Birlikte kaç tane deniz kabuğu buldular?",
+        "lEquations": [
+            "9+7+5=x"
+        ],
+        "lSolutions": [
+            21.0
+        ]
+    },
+    {
+        "iIndex": 3729,
+        "sQuestion": "Josh'un 142 kalemi vardı. Dorothy'ye 31 kalem verdi. Josh'un kaç kalemi kaldı?",
+        "lEquations": [
+            "X=(142.0-31.0)"
+        ],
+        "lSolutions": [
+            111.0
+        ]
+    },
+    {
+        "iIndex": 81,
+        "sQuestion": "Parkta şu anda 25 popüler ağaç var. Park çalışanları bugün 73 adet popüler ağaç dikecek. İşçilerin işi bittiğinde parkta kaç tane popüler ağaç olacak?",
+        "lEquations": [
+            "X=25+73"
+        ],
+        "lSolutions": [
+            "98"
+        ]
+    },
+    {
+        "iIndex": 3404,
+        "sQuestion": "Denise kavanozdan 5 muzu çıkarıyor. Başlangıçta kavanozda 46 muz vardı. Kavanozda kaç tane muz kaldı?",
+        "lEquations": [
+            "X=(46.0-5.0)"
+        ],
+        "lSolutions": [
+            41.0
+        ]
+    },
+    {
+        "iIndex": 210,
+        "sQuestion": "Yardley'de sabah 0,125 inç, öğleden sonra ise 0,5 inç kar yağdı. Toplam kar yağışı ne kadar oldu?",
+        "lEquations": [
+            "X=0.125+0.5"
+        ],
+        "lSolutions": [
+            "0.625"
+        ]
+    },
+    {
+        "iIndex": 311,
+        "sQuestion": "Parkta şu anda 42 adet ceviz ağacı ve 12 adet portakal ağacı bulunmaktadır. Park çalışanları zarar gören 13 ceviz ağacını kesmek zorunda kaldı. İşçilerin işi bittiğinde parkta kaç ceviz ağacı olacak?",
+        "lEquations": [
+            "X=42-13"
+        ],
+        "lSolutions": [
+            "29"
+        ]
+    },
+    {
+        "iIndex": 2341,
+        "sQuestion": "Okuldaki pasta satışı için Wendy hamur işleri yaptı. 41 kek ve 31 kurabiye pişirdi. Satıştan sonra eve götürmesi gereken 32 parası vardı. Kaç tane pasta sattı?",
+        "lEquations": [
+            "X=((41.0+31.0)-32.0)"
+        ],
+        "lSolutions": [
+            40.0
+        ]
+    },
+    {
+        "iIndex": 147,
+        "sQuestion": "Geçen yıl bir ülkede 90.171 kişi doğdu ve 16.320 kişi o ülkeye göç etti. Geçen yıl ülkede kaç yeni insan yaşamaya başladı?",
+        "lEquations": [
+            "X=90171.0+16320.0"
+        ],
+        "lSolutions": [
+            "106491.0"
+        ]
+    },
+    {
+        "iIndex": 2343,
+        "sQuestion": "Jerry atari salonunda 'köstebek vurma' oynayarak 29, 'skee topu' oynayarak 17 bilet kazandı. Biletlerinin 12'sini şapkaya harcadıysa Jerry'nin kaç bileti kalmıştır?",
+        "lEquations": [
+            "X=((29.0+17.0)-12.0)"
+        ],
+        "lSolutions": [
+            34.0
+        ]
+    },
+    {
+        "iIndex": 3398,
+        "sQuestion": "Evelyn 18 şişe kapağıyla başlıyor. 63 tane daha buluyor. Evelyn kaç şişe kapağıyla bitiriyor?",
+        "lEquations": [
+            "X=(18.0+63.0)"
+        ],
+        "lSolutions": [
+            81.0
+        ]
+    },
+    {
+        "iIndex": 3749,
+        "sQuestion": "Brad'in 17 balonu var. 8 balon kırmızı, geri kalanı yeşildir. Brad'in kaç tane yeşil balonu var?",
+        "lEquations": [
+            "X=(17.0-8.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 3046,
+        "sQuestion": "Sara 43 balkabağı yetiştirdi ama tavşanlar 23 balkabağı yedi. Sara'nın kaç tane balkabağı kaldı?",
+        "lEquations": [
+            "43-23=x"
+        ],
+        "lSolutions": [
+            20.0
+        ]
+    },
+    {
+        "iIndex": 2351,
+        "sQuestion": "Bir öğretmenin not vermesi gereken 6 çalışma sayfası vardı. Eğer 4 not verdiyse ve daha sonra 18 not daha verdiyse, kaç çalışma sayfasına not vermesi gerekecekti?",
+        "lEquations": [
+            "X=((6.0+18.0)-4.0)"
+        ],
+        "lSolutions": [
+            20.0
+        ]
+    },
+    {
+        "iIndex": 3105,
+        "sQuestion": "Bir grup fen bilgisi öğrencisi saha gezisine çıktı. 6 minibüs ve 8 otobüs aldılar. Her minibüste 6 kişi, her otobüste ise 18 kişi vardı. Saha gezisine kaç kişi gitti?",
+        "lEquations": [
+            "(6*6)+(8*18)=x"
+        ],
+        "lSolutions": [
+            180.0
+        ]
+    },
+    {
+        "iIndex": 3228,
+        "sQuestion": "Marta iki balkabağı seçti. İlk balkabağı 4 kilo, ikinci balkabağı ise 8,7 kiloydu. İki balkabağı toplam ağırlığı ne kadardı?",
+        "lEquations": [
+            "4+8.7"
+        ],
+        "lSolutions": [
+            12.7
+        ]
+    },
+    {
+        "iIndex": 2748,
+        "sQuestion": "Edward eyalet fuarından 79 bilet aldı. 'Palyaço smaç' standında 23 bilet harcadı ve geri kalanını gezilerde kullanmaya karar verdi. Her yolculuğun maliyeti 7 bilet ise, kaç yolculuğa çıkabilir?",
+        "lEquations": [
+            "X=((79.0-23.0)/7.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 187,
+        "sQuestion": "Scarlett'in ölçüm kabında 0,16666666666666666 bardak yağ var. Scarlett 0,66666666666666666 bardak daha eklerse ölçü kabında ne kadar yağ olur?",
+        "lEquations": [
+            "X=0.16666666666666666+0.6666666666666666"
+        ],
+        "lSolutions": [
+            "0.8333333333333334"
+        ]
+    },
+    {
+        "iIndex": 3460,
+        "sQuestion": "Jennifer 7 elmayla başlıyor. 74 elma daha bulur. Jennifer'ın sonu kaç elmadır?",
+        "lEquations": [
+            "X=(7.0+74.0)"
+        ],
+        "lSolutions": [
+            81.0
+        ]
+    },
+    {
+        "iIndex": 3642,
+        "sQuestion": "Jeremy saatte 2 kilometre hızla 20 kilometre yürüdü. Jeremy ne kadar süre yürüdü?",
+        "lEquations": [
+            "X=(20.0/2.0)"
+        ],
+        "lSolutions": [
+            10.0
+        ]
+    },
+    {
+        "iIndex": 3086,
+        "sQuestion": "Bir çiftçi 48097 kile buğday hasat edeceğini tahmin ediyor. Büyüme mevsimi boyunca hava mükemmel olduğundan beklenenden 684 kile daha fazla buğday hasat ediyor. Çiftçi kaç kile buğday hasat ediyor?",
+        "lEquations": [
+            "48097+684=x"
+        ],
+        "lSolutions": [
+            48781.0
+        ]
+    },
+    {
+        "iIndex": 2685,
+        "sQuestion": "Bir şefin 9 patates pişirmesi gerekiyor. Zaten 7 tane pişirmiştir. Her bir patatesin pişmesi 3 dakika alırsa, geri kalanını ne kadar sürede pişirir?",
+        "lEquations": [
+            "X=(3.0*(9.0-7.0))"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 2949,
+        "sQuestion": "Fred'in bankasında 90 senti var.  Fred'in kaç on senti var?",
+        "lEquations": [
+            "90/10=x"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 307,
+        "sQuestion": "Sara bahçeden 35 armut ve 27 elma topladı. 28 armutu Dan'e verdi. Sara'nın kaç armutu var?",
+        "lEquations": [
+            "X=35-28"
+        ],
+        "lSolutions": [
+            "7"
+        ]
+    },
+    {
+        "iIndex": 2400,
+        "sQuestion": "Dave, atari salonunda 25 bilet kazandı. Bir bere için 22 bilet harcayıp daha sonra 15 bilet daha kazanırsa kaç tane bilet alırdı?",
+        "lEquations": [
+            "X=((25.0+15.0)-22.0)"
+        ],
+        "lSolutions": [
+            18.0
+        ]
+    },
+    {
+        "iIndex": 3363,
+        "sQuestion": "Bobby 2 blok topluyor. Bobby'nin babası Bobby'ye 6 tane daha verir. Bobby'nin kaç bloğu var?",
+        "lEquations": [
+            "X=(2.0+6.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 2550,
+        "sQuestion": "Okulun beyzbol takımında 48 yeni oyuncu ve 6 geri dönen oyuncu vardı. Eğer antrenör onları her grupta 6 oyuncu olacak şekilde gruplara ayırırsa kaç grup olur?",
+        "lEquations": [
+            "X=((48.0+6.0)/6.0)"
+        ],
+        "lSolutions": [
+            9.0
+        ]
+    },
+    {
+        "iIndex": 184,
+        "sQuestion": "Mandy elmalı turta yaptı. 0,66666666666666666 yemek kaşığı tarçın ve 0,5 yemek kaşığı hindistan cevizi kullandı. Mandy hindistan cevizinden ne kadar daha fazla tarçın kullandı?",
+        "lEquations": [
+            "X=0.6666666666666666-0.5"
+        ],
+        "lSolutions": [
+            "0.16666666666666666"
+        ]
+    },
+    {
+        "iIndex": 3126,
+        "sQuestion": "Sınıfınız pizza partisi düzenliyor. 5 pizza satın alıyorsunuz. Her pizzanın 4 dilimi var. Toplam kaç dilim ediyor?",
+        "lEquations": [
+            "5*4=x"
+        ],
+        "lSolutions": [
+            20.0
+        ]
+    },
+    {
+        "iIndex": 2330,
+        "sQuestion": "Bir evcil hayvan dükkanında 15 siyam kedisi ve 49 ev kedisi vardı. Bir satış sırasında 19 kedi sattılar. Kaç kedileri kaldı?",
+        "lEquations": [
+            "X=((15.0+49.0)-19.0)"
+        ],
+        "lSolutions": [
+            45.0
+        ]
+    },
+    {
+        "iIndex": 3513,
+        "sQuestion": "Jack 4 arkadaşını bir partiye davet ediyor. 4 kurabiyesi var. Her arkadaşa kaç kurabiye verilecek?",
+        "lEquations": [
+            "X=(4.0/4.0)"
+        ],
+        "lSolutions": [
+            1.0
+        ]
+    },
+    {
+        "iIndex": 2639,
+        "sQuestion": "Victor, kafeterya çalışanlarının yemek tepsilerini toplamasına yardım ediyordu ama aynı anda yalnızca 7 tepsi taşıyabiliyordu. Bir masadan 23, diğer masadan 5 tepsi almak zorunda kalsa kaç yolculuk yapar?",
+        "lEquations": [
+            "X=((23.0+5.0)/7.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 3878,
+        "sQuestion": "Bob'un arabası galon başına 10 kilometre yol alıyor. 10 galon benzinle ne kadar uzağa gidebilir?",
+        "lEquations": [
+            "X=(10.0*10.0)"
+        ],
+        "lSolutions": [
+            100.0
+        ]
+    },
+    {
+        "iIndex": 3274,
+        "sQuestion": "Jane ayçiçekleri için saksı görevi görmek üzere büyük boş teneke kutular biriktiriyordu. Elinde 54 tane ayçiçeği çekirdeği varsa ve 9 kutu varsa, her kutuya eşit sayıda tohum koyarsa her kutuya kaç tane tohum konur?",
+        "lEquations": [
+            "54/9=x"
+        ],
+        "lSolutions": [
+            6.0
+        ]
+    },
+    {
+        "iIndex": 3262,
+        "sQuestion": "Shiela'nın kardeşi Allen bloklarla oynamayı seviyor. Shiela, Allen'ın eski bloklarını farklı renklere yeniden boyadı. Allen'ın 49 özdeş bloğu varsa ve kullanılan her boya rengi için 7 blok varsa, Shiela kaç renk kullandı?",
+        "lEquations": [
+            "49/7=x"
+        ],
+        "lSolutions": [
+            7.0
+        ]
+    },
+    {
+        "iIndex": 49,
+        "sQuestion": "Jason 46 armut topladı, Keith 47 armut aldı ve Mike armut ağacından 12 armut aldı. Toplamda kaç armut toplandı?",
+        "lEquations": [
+            "X=46+47+12"
+        ],
+        "lSolutions": [
+            "105"
+        ]
+    },
+    {
+        "iIndex": 3021,
+        "sQuestion": "Jessica'nın 3 düzine kırmızı bilyesi var. Sandy'nin Jessica'dan 4 kat daha fazla kırmızı bilyesi var. Sandy'nin kaç tane kırmızı bilyesi var?",
+        "lEquations": [
+            "(3*12)*4=x"
+        ],
+        "lSolutions": [
+            144.0
+        ]
+    },
+    {
+        "iIndex": 2575,
+        "sQuestion": "George bir doğum günü partisi için 10 normal gazoz ve 22 diyet gazoz satın aldı. Eğer buzdolabının her rafında yalnızca 4 adet yer olsaydı, kaç raf doldururdu?",
+        "lEquations": [
+            "X=((10.0+22.0)/4.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 3115,
+        "sQuestion": "Vincent hayvanlar hakkında 10 kitap, uzay hakkında 1 kitap ve trenler hakkında 3 kitap satın aldı. Her kitap 16 dolara mal oldu. Vincent kitaplara ne kadar harcadı?",
+        "lEquations": [
+            "((10+1)+3)*16=x"
+        ],
+        "lSolutions": [
+            224.0
+        ]
+    },
+    {
+        "iIndex": 2686,
+        "sQuestion": "Bir sihirbaz, tanesi 5 dolara sihirli kart desteleri satıyordu. 14 desteyle başlayıp günün sonunda 5 destesi kaldığına göre ne kadar para kazanmıştır?",
+        "lEquations": [
+            "X=(5.0*(14.0-5.0))"
+        ],
+        "lSolutions": [
+            45.0
+        ]
+    },
+    {
+        "iIndex": 3318,
+        "sQuestion": "Çiftçinin 127 elması vardı. Çiftçi komşusuna 88 elma vermiş. Çiftçinin şu anda kaç elması var?",
+        "lEquations": [
+            "127-88=x"
+        ],
+        "lSolutions": [
+            39.0
+        ]
+    },
+    {
+        "iIndex": 3302,
+        "sQuestion": "Adam'ın 4.28$'lık bir uçak satın almak için 5.00$'ı var. Adam ne kadar para üstü alacak?",
+        "lEquations": [
+            "5.00-4.28=x"
+        ],
+        "lSolutions": [
+            0.72
+        ]
+    },
+    {
+        "iIndex": 2380,
+        "sQuestion": "Fuarda çarpışan arabalar için 10 kişi kuyruktaydı. 2 tanesi beklemekten sıkılıp ayrılırsa ve 2 kişi daha sıraya girerse sırada kaç kişi olur?",
+        "lEquations": [
+            "X=((10.0+2.0)-2.0)"
+        ],
+        "lSolutions": [
+            10.0
+        ]
+    },
+    {
+        "iIndex": 3188,
+        "sQuestion": "Okuldaki bir oyun sırasında Jonah büfede görev yapıyordu. İlk devrede 0,25 sürahi limonata, ikinci devrede 0,41666666666666667 sürahi ve üçüncü devrede 0,25 sürahi servis etti. Yunus toplam kaç sürahi limonata döktü?",
+        "lEquations": [
+            "0.25+0.4166666666666667+0.25"
+        ],
+        "lSolutions": [
+            0.9166666666666666
+        ]
+    },
+    {
+        "iIndex": 178,
+        "sQuestion": "Lindsey's Vacation Wear'da 0,375'lik giysiler bikini, 0,25'lik şortlar ise şortlardan oluşuyor. Giysilerin ne kadarı bikini veya şorttan oluşuyor?",
+        "lEquations": [
+            "X=0.375+0.25"
+        ],
+        "lSolutions": [
+            "0.625"
+        ]
+    },
+    {
+        "iIndex": 3723,
+        "sQuestion": "Marcus'un 210 beyzbol kartı var. Carter'dan 58 fazlası var. Carter'ın kaç tane beyzbol kartı var?",
+        "lEquations": [
+            "X=(210.0-58.0)"
+        ],
+        "lSolutions": [
+            152.0
+        ]
+    },
+    {
+        "iIndex": 3744,
+        "sQuestion": "Ahırda 64 domuz var. Bazıları da onlara katılmaya geliyor. Şimdi 86 domuz var. Onlara katılmaya kaç domuz geldi?",
+        "lEquations": [
+            "X=(86.0-64.0)"
+        ],
+        "lSolutions": [
+            22.0
+        ]
+    },
+    {
+        "iIndex": 162,
+        "sQuestion": "Arcadia okullarındaki öğrenciler vestiyer gezisine katılıyorlar. Şu ana kadar 9437 mont toplandı. 6922 mont liselerden, geri kalanı da ilkokullardan toplandı. İlkokullarda kaç mont toplandı?",
+        "lEquations": [
+            "X=9437.0-6922.0"
+        ],
+        "lSolutions": [
+            "2515.0"
+        ]
+    },
+    {
+        "iIndex": 3628,
+        "sQuestion": "Christine saatte 4 mil hızla 20 mil dolaştı. Christine ne kadar süre dolaştı?",
+        "lEquations": [
+            "X=(20.0/4.0)"
+        ],
+        "lSolutions": [
+            5.0
+        ]
+    },
+    {
+        "iIndex": 3670,
+        "sQuestion": "Bir okulda 542 kız, 387 erkek öğrenci bulunmaktadır. O okulda kaç öğrenci var?",
+        "lEquations": [
+            "X=(542.0+387.0)"
+        ],
+        "lSolutions": [
+            929.0
+        ]
+    },
+    {
+        "iIndex": 3793,
+        "sQuestion": "84 yaprak var. Her yaprakta 139 adet uğur böceği bulunmaktadır. Toplamda kaç tane uğur böceği var?",
+        "lEquations": [
+            "X=(84.0*139.0)"
+        ],
+        "lSolutions": [
+            11676.0
+        ]
+    },
+    {
+        "iIndex": 2714,
+        "sQuestion": "Bir bilgi yarışması ekibinin toplam 14 üyesi vardı, ancak oyun sırasında 7 üye gelmedi. Gelen her üye 5 puan aldıysa toplamda kaç puan alındı?",
+        "lEquations": [
+            "X=(5.0*(14.0-7.0))"
+        ],
+        "lSolutions": [
+            35.0
+        ]
+    },
+    {
+        "iIndex": 3828,
+        "sQuestion": "Carla'nın biraz misketi var. 489 misket satın aldı. Şimdi toplam 2778 bilyesi var. Kaç taneyle başladı?",
+        "lEquations": [
+            "X=(2778.0-489.0)"
+        ],
+        "lSolutions": [
+            2289.0
+        ]
+    },
+    {
+        "iIndex": 3517,
+        "sQuestion": "Okul bir gezi planlıyor. Her okul otobüsünde 28 öğrenci ve 7 koltuk bulunmaktadır. Yolculuğa çıkmak için kaç otobüse ihtiyaç var?",
+        "lEquations": [
+            "X=(28.0/7.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 3578,
+        "sQuestion": "Bir kutuda 77 elma var. Louise'in bir çantada 9 elması var. Scott kutudan 75 elma çıkarıyor. Kutuda kaç elma kaldı?",
+        "lEquations": [
+            "X=(77.0-75.0)"
+        ],
+        "lSolutions": [
+            2.0
+        ]
+    },
+    {
+        "iIndex": 3898,
+        "sQuestion": "Jorge geçen sezon futbol oynarken 156 gol attı. Bu sezon 187 gol attı. Jorge'nin attığı toplam gol sayısı nedir?",
+        "lEquations": [
+            "X=(156.0+187.0)"
+        ],
+        "lSolutions": [
+            343.0
+        ]
+    },
+    {
+        "iIndex": 18,
+        "sQuestion": "Tim'in kedisinin yavruları vardı. 3'ünü Jessica'ya ve 6'sını Sara'ya verdi. Şu anda 9 kedi yavrusu var. Başlamak için kaç yavru kediye ihtiyacı vardı?",
+        "lEquations": [
+            "X=3+6+9"
+        ],
+        "lSolutions": [
+            "18"
+        ]
+    },
+    {
+        "iIndex": 16,
+        "sQuestion": "Benny elma ağacından 2 elma, Dan ise 9 elma aldı. Toplamda kaç elma toplandı?",
+        "lEquations": [
+            "X=2+9"
+        ],
+        "lSolutions": [
+            "11"
+        ]
+    },
+    {
+        "iIndex": 3433,
+        "sQuestion": "Craig 5 Skittles ile başlıyor. 2'si su aygırı tarafından yenir. Craig kaç Skittles ile bitiriyor?",
+        "lEquations": [
+            "X=(5.0-2.0)"
+        ],
+        "lSolutions": [
+            3.0
+        ]
+    },
+    {
+        "iIndex": 2779,
+        "sQuestion": "Bir garsonun kendi bölümünde 44 müşterisi vardı. 12 kişi kaldıysa ve geri kalan masalarda 8 kişi varsa, kaç masası vardı?",
+        "lEquations": [
+            "X=((44.0-12.0)/8.0)"
+        ],
+        "lSolutions": [
+            4.0
+        ]
+    },
+    {
+        "iIndex": 3360,
+        "sQuestion": "Carol 2 fıstık topluyor. Carol'ın babası Carol'a 5 tane daha verir. Carol'un kaç tane fıstığı var?",
+        "lEquations": [
+            "X=(2.0+5.0)"
+        ],
+        "lSolutions": [
+            7.0
+        ]
+    },
+    {
+        "iIndex": 3632,
+        "sQuestion": "Lisa saatte 32 mil hızla 256 mil uçtu. Lisa ne kadar süre uçtu?",
+        "lEquations": [
+            "X=(256.0/32.0)"
+        ],
+        "lSolutions": [
+            8.0
+        ]
+    },
+    {
+        "iIndex": 697,
+        "sQuestion": "Basketbol takımının en uzun oyuncusu 77,75 inç boyundadır. Bu, en kısa oyuncudan 9,5 inç daha uzun. En kısa oyuncunun boyu inç cinsinden ne kadardır?",
+        "lEquations": [
+            "x=77.75-9.5"
+        ],
+        "lSolutions": [
+            68.25
+        ]
+    },
+    {
+        "iIndex": 1607,
+        "sQuestion": "Bir makinenin yapabileceği dişli sayısı, ne kadar süreyle çalıştığına bağlı olarak doğrudan değişir. 8 saatte 2088 dişli yapabiliyorsa, 9 saatte kaç dişli yapabilir?",
+        "lEquations": [
+            "x=(9.0*2088.0)/8.0"
+        ],
+        "lSolutions": [
+            2349.0
+        ]
+    },
+    {
+        "iIndex": 3211,
+        "sQuestion": "Wendy 19,833333333333332 mil koştu ve 9,166666666666666 mil yürüdü. Wendy yürümekten ne kadar uzağa koştu?",
+        "lEquations": [
+            "19.833333333333332-9.166666666666666"
+        ],
+        "lSolutions": [
+            10.666666666666666
+        ]
+    },
+    {
+        "iIndex": 3627,
+        "sQuestion": "Christine saatte 4 mil hızla 20 mil dolaştı. Christine ne kadar süre dolaştı?",
+        "lEquations": [
+            "X=(20.0/4.0)"
+        ],
+        "lSolutions": [
+            5.0
+        ]
+    },
+    {
+        "iIndex": 393,
+        "sQuestion": "Çekmecede 48 adet kalem ve 40 adet makas bulunmaktadır. Joan çekmeceye 29 kalem yerleştirdi. Şimdi toplam kaç kalem var?",
+        "lEquations": [
+            "X=48+29"
+        ],
+        "lSolutions": [
+            "77"
+        ]
+    },
+    {
+        "iIndex": 198,
+        "sQuestion": "Elizabeth kuaföre gitti ve 0,375 inç saçını kestirdi. Ertesi gün geri döndü ve 0,5 inçlik bir parçanın daha kesilmesini istedi. Toplamda ne kadar saç kesti?",
+        "lEquations": [
+            "X=0.375+0.5"
+        ],
+        "lSolutions": [
+            "0.875"
+        ]
+    },
+    {
+        "iIndex": 3434,
+        "sQuestion": "Steve'in 46 portakalı var. 4'ünü Patrick'le paylaşıyor. Steve'in kaç portakalı olacak?",
+        "lEquations": [
+            "X=(46.0-4.0)"
+        ],
+        "lSolutions": [
+            42.0
+        ]
+    },
+    {
+        "iIndex": 2891,
+        "sQuestion": "Mary sahilde 18 deniz kabuğu buldu ve Jessica 41 deniz kabuğu buldu. Birlikte kaç tane deniz kabuğu buldular?",
+        "lEquations": [
+            "18+41=x"
+        ],
+        "lSolutions": [
+            59.0
+        ]
+    },
+    {
+        "iIndex": 2458,
+        "sQuestion": "Billy's Restaurant'a 2 yetişkin ve 5 çocuktan oluşan bir grup yemek yemek için geldi. Her öğünün maliyeti 3 dolar olduğuna göre fatura ne kadardı?",
+        "lEquations": [
+            "X=(3.0*(2.0+5.0))"
+        ],
+        "lSolutions": [
+            21.0
+        ]
+    },
+    {
+        "iIndex": 324,
+        "sQuestion": "Melanie bir Batman oyununu 6,95 dolara, bir strateji oyununu 7,90 dolara ve bir Süpermen oyununu 7,73 dolara satın aldı. Melanie'nin halihazırda 4 oyunu var. Melanie video oyunlarına ne kadar harcadı?",
+        "lEquations": [
+            "X=6.95+7.90+7.73"
+        ],
+        "lSolutions": [
+            "22.58"
+        ]
+    },
+    {
+        "iIndex": 250,
+        "sQuestion": "Irene komodini için yeni bir lamba aldı. Eski lamba 1 fit uzunluğundaydı ve yeni lamba 2,3333333333333335 fit uzunluğundaydı. Yeni lamba eski lambadan ne kadar uzun?",
+        "lEquations": [
+            "X=2.3333333333333335-1.0"
+        ],
+        "lSolutions": [
+            "1.3333333333333333"
+        ]
+    },
+    {
+        "iIndex": 2864,
+        "sQuestion": "Parkta şu anda 4 adet ceviz ağacı bulunmaktadır. Park çalışanları bugün 6 ceviz ağacı daha dikecek. İşçilerin işi bittiğinde parkta kaç tane ceviz ağacı olacak?",
+        "lEquations": [
+            "4+6=x"
+        ],
+        "lSolutions": [
+            10.0
+        ]
+    },
+    {
+        "iIndex": 219,
+        "sQuestion": "Allie dondurma partisinden sonra kalan dondurmaları saydı. 0.3333333333333333 karton rocky road dondurması, 0.3333333333333333 karton kurabiye hamuru dondurması ve 0.166666666666666666 karton çilekli cheesecake dondurması vardı. Allie'nin toplam kaç karton dondurması vardı?",
+        "lEquations": [
+            "X=0.3333333333333333+0.3333333333333333+0.16666666666666666"
+        ],
+        "lSolutions": [
+            "0.8333333333333334"
+        ]
+    },
+    {
+        "iIndex": 226,
+        "sQuestion": "Kendra arkadaşının doğum günü partisi için panç yaptı. 0,25 galon üzüm suyu, 0,375 galon kızılcık suyu ve 0,125 galon soda kullandı. Kendra kaç galon panç yaptı?",
+        "lEquations": [
+            "X=0.25+0.375+0.125"
+        ],
+        "lSolutions": [
+            "0.75"
+        ]
+    },
+    {
+        "iIndex": 2924,
+        "sQuestion": "Tim'in 22 kitabı var. Mike'ın 20 kitabı var.  Birlikte kaç kitap var?",
+        "lEquations": [
+            "22+20=x"
+        ],
+        "lSolutions": [
+            42.0
+        ]
+    },
+    {
+        "iIndex": 2916,
+        "sQuestion": "Bir restoran bugün öğle yemeğinde 6, akşam yemeğinde ise 9 kek servis etti. Bugün kaç kek servis edildi?",
+        "lEquations": [
+            "6+9=x"
+        ],
+        "lSolutions": [
+            15.0
+        ]
+    },
+    {
+        "iIndex": 3521,
+        "sQuestion": "Okul bir gezi planlıyor. Her okul otobüsünde 45 öğrenci ve 9 koltuk var. Geziye katılmak için kaç otobüse ihtiyaç var?",
+        "lEquations": [
+            "X=(45.0/9.0)"
+        ],
+        "lSolutions": [
+            5.0
+        ]
+    },
+    {
+        "iIndex": 2494,
+        "sQuestion": "Nisan ayının indirimli çiçeklerinde tanesi 3 dolar olan bir indirim yapılıyordu. Robin 5 gül ve 4 papatya aldıysa ne kadar harcadı?",
+        "lEquations": [
+            "X=(3.0*(5.0+4.0))"
+        ],
+        "lSolutions": [
+            27.0
+        ]
+    },
+    {
+        "iIndex": 2929,
+        "sQuestion": "Parkta şu anda 25 popüler ağaç var. Park çalışanları bugün 73 popüler ağaç daha dikecek. İşçilerin işi bittiğinde parkta kaç tane popüler ağaç olacak?",
+        "lEquations": [
+            "25+73=x"
+        ],
+        "lSolutions": [
+            98.0
+        ]
+    },
+    {
+        "iIndex": 3454,
+        "sQuestion": "Ralph 74 fıstıkla başlıyor. 59 kaybeder. Ralph kaç fıstıkla bitirir?",
+        "lEquations": [
+            "X=(74.0-59.0)"
+        ],
+        "lSolutions": [
+            15.0
+        ]
+    },
+    {
+        "iIndex": 3550,
+        "sQuestion": "William'ın 2 şişe kapağı var. 41 tane daha alıyor. William'ın toplam kaç şişe kapağı var?",
+        "lEquations": [
+            "X=(2.0+41.0)"
+        ],
+        "lSolutions": [
+            43.0
+        ]
+    },
+    {
+        "iIndex": 2675,
+        "sQuestion": "Yeni bir binanın 9 pencereye ihtiyacı vardı. İnşaatçı zaten bunlardan 6 tanesini kurmuştu. Her bir pencerenin montajı 6 saat sürüyorsa, geri kalanların montajı ne kadar sürer?",
+        "lEquations": [
+            "X=(6.0*(9.0-6.0))"
+        ],
+        "lSolutions": [
+            18.0
+        ]
+    },
+    {
+        "iIndex": 2319,
+        "sQuestion": "Okulun basketbol takımına 17 kız ve 32 erkek öğrenci katıldı. Sadece 10 tanesi geri çağrıldıysa, kaç öğrenci kesintiyi yapamadı?",
+        "lEquations": [
+            "X=((17.0+32.0)-10.0)"
+        ],
+        "lSolutions": [
+            39.0
+        ]
+    }
+]

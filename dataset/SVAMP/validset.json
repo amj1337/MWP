@@ -1,0 +1,802 @@
+[
+    {
+        "ID": "chal-345",
+        "Body": "'Çılgın aptal okul' serisinde 8 farklı film ve 21 farklı kitap yer alıyor. Kitaplardan 7'sini okuyup 4 filmini izlediyseniz",
+        "Question": "Daha kaç film izlemeniz gerekiyor?",
+        "Equation": "( 8.0 - 4.0 )",
+        "Answer": 4.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-230",
+        "Body": "Evin duvarlarında büyük tahta kalasları sabitlemek için toplam 4 çivi kullanıyordu. Her bir tahta kalasın sabitlenmesi için 2 adet çivi gerekiyorsa",
+        "Question": "John'un evin duvarı için kaç tane kalasa ihtiyacı var?",
+        "Equation": "( 4.0 / 2.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-680",
+        "Body": "Rachel'ın ağacında 4 elma vardı. Ağacından 2 elma topladı. Daha sonra ağaçta 3 yeni elma büyüdü.",
+        "Question": "Şimdi ağaçta kaç tane elma var?",
+        "Equation": "( ( 4.0 - 2.0 ) + 3.0 )",
+        "Answer": 1.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-472",
+        "Body": "Steven'ın kuka koleksiyonunda 896 kuka var. Steven'ın ayrıca 517 silgisi ve 90 terazisi var. Eğer kukalar 8 gruba ayrılırsa",
+        "Question": "Her grup ne kadar büyük?",
+        "Equation": "( 896.0 / 8.0 )",
+        "Answer": 112.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-928",
+        "Body": "Çekirge, kurbağa ve fare atlama yarışması yaptı. Çekirge 21 inç sıçradı. Çekirge kurbağadan 25 inç daha uzağa atladı ve fare kurbağadan 16 inç daha az zıpladı.",
+        "Question": "Çekirge fareden ne kadar uzağa sıçradı?",
+        "Equation": "( 25.0 + 16.0 )",
+        "Answer": 41.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-153",
+        "Body": "Paige, annesinin çiçek dikmesine yardım ediyordu ve birlikte tohum ektiler. Her çiçek yatağına 10 adet tohum koyuyorlar. 45 çiçek tarhı varsa",
+        "Question": "Kaç tohum ektiler?",
+        "Equation": "( 10.0 * 45.0 )",
+        "Answer": 450.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-517",
+        "Body": "Çitin üzerinde 4 kuş ve 3 leylek oturuyordu. Onlara 6 leylek daha katıldı.",
+        "Question": "Çitin üzerinde kuşlardan kaç tane leylek oturuyor?",
+        "Equation": "( ( 3.0 + 6.0 ) - 4.0 )",
+        "Answer": 5.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-504",
+        "Body": "Bobby'nin 19 adet şekeri vardı. 2 dilim şeker yedi.",
+        "Question": "Elinde hâlâ kaç parça şeker kaldı?",
+        "Equation": "( 19.0 - 2.0 )",
+        "Answer": 17.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-619",
+        "Body": "Otobüse 26 çocuk biniyordu. Durakta 38 çocuk daha otobüse bindi.",
+        "Question": "Şu anda otobüste kaç çocuk var?",
+        "Equation": "( 26.0 + 38.0 )",
+        "Answer": 64.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-29",
+        "Body": "Bir bakkalda 49 şişe normal soda, 40 şişe diyet soda ve 6 şişe lite soda vardı.",
+        "Question": "Toplamda kaç şişe normal soda ve kaç şişe diyet soda içtiler?",
+        "Equation": "( 40.0 + 49.0 )",
+        "Answer": 89.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-927",
+        "Body": "Matthew'un 24 krakeri vardı. Matthew 3 arkadaşına eşit sayıda kraker verseydi ve hâlâ 17 kraker kalsaydı",
+        "Question": "Matthew arkadaşlarına kaç tane kraker verdi?",
+        "Equation": "( 24.0 - 17.0 )",
+        "Answer": 7.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-172",
+        "Body": "Faye, her sırada 5 kalem olacak şekilde 30 kalemi sıralara yerleştiriyordu.",
+        "Question": "Kaç satır yapabilirdi?",
+        "Equation": "( 30.0 / 5.0 )",
+        "Answer": 6.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-68",
+        "Body": "Rebecca yumurta koleksiyonunu 3 gruba ayırmak istiyor. Rebecca'nın 4 bilyesi ve 15 yumurtası var.",
+        "Question": "Her grupta kaç yumurta olacak?",
+        "Equation": "( 15.0 / 3.0 )",
+        "Answer": 5.0,
+        "Type": "Ortak-Bölüm"
+    },
+    {
+        "ID": "chal-329",
+        "Body": "Baker 13 kek yaptı. Bunlardan 91 tanesini satıp 154 ​​adet yeni kek aldı.",
+        "Question": "Fırıncı sattığından kaç tane daha fazla kek aldı?",
+        "Equation": "( 154.0 - 91.0 )",
+        "Answer": 63.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-549",
+        "Body": "Emily arkadaşları için boncuklu kolyeler yapıyor. 6 kolye yapabildi ve 18 tane boncuğu vardı.",
+        "Question": "Her kolye için kaç tane boncuk gerekiyordu?",
+        "Equation": "( 18.0 / 6.0 )",
+        "Answer": 3.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-173",
+        "Body": "Frank'in elinde biraz şeker vardı. Bunları her birinde 33 parça bulunan 26 torbaya koyarsa",
+        "Question": "Kaç tane şekeri vardı?",
+        "Equation": "( 26.0 * 33.0 )",
+        "Answer": 858.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-385",
+        "Body": "Karnavaldaki ring atma oyunu ilk 20 günde 120 dolar, geri kalan 16 günde ise 66 dolar kazandırdı.",
+        "Question": "Karnavalın ilk 20 gününde günde ne kadar kazandılar?",
+        "Equation": "( 120.0 / 20.0 )",
+        "Answer": 6.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-543",
+        "Body": "Zachary bugün beden eğitimi dersinde 53 şınav ve 14 mekik çekti. David, Zachary'den 17 daha fazla şınav çekti ama 10 daha az mekik çekti.",
+        "Question": "Zachary kaç şınav ve mekik çekti?",
+        "Equation": "( 53.0 + 14.0 )",
+        "Answer": 67.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-359",
+        "Body": "Kış neredeyse yaklaşıyor ve hayvanların çoğu daha sıcak ülkelere göç ediyor. Dağın yakınında 38 kuş ailesi yaşıyor. 47 kuş ailesi Afrika'ya, 94 kuş ailesi ise Asya'ya uçsaydı",
+        "Question": "Asya'ya uçan kuş ailelerinin sayısı, Afrika'ya uçan kuş ailelerinin sayısından kaç fazladır?",
+        "Equation": "( 94.0 - 47.0 )",
+        "Answer": 47.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-604",
+        "Body": "Bobby'nin 22 adet şekeri vardı. Biraz şeker yedi. Daha sonra 5 tane daha yedi. Eğer hala 8 parça şekeri kalmışsa",
+        "Question": "Başlangıçta kaç parça şeker yemişti?",
+        "Equation": "( ( 22.0 - 5.0 ) - 8.0 )",
+        "Answer": 9.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-443",
+        "Body": "Favorisi olduğundan son durağı olarak üzüm bağlarını kontrol etmeyi bıraktı. Toplayıcıların 294'ü kendisine günde 244 fıçı üzüm ve 47 fıçı ahududu doldurduklarını söyledi.",
+        "Question": "146 günde kaç fıçı üzüm dolar?",
+        "Equation": "( 244.0 * 146.0 )",
+        "Answer": 35624.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-808",
+        "Body": "Matthew 4 arkadaşına eşit sayıda kraker ve kek verdi. Başlangıçta 32 kraker ve 98 kek olsaydı",
+        "Question": "Her kişi kaç tane kraker yemiştir?",
+        "Equation": "( 32.0 / 4.0 )",
+        "Answer": 8.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-185",
+        "Body": "Dave'in telefonunda 15 uygulama vardı. 71 yeni uygulama ekledi. Bir kısmını sildikten sonra 14 tanesi kalmıştı.",
+        "Question": "Eklediğinden kaç uygulamayı daha fazla sildi?",
+        "Equation": "( 15.0 - 14.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-342",
+        "Body": "Dan'in 3 doları var. Toplamda 4 dolara, her biri aynı paraya mal olan 2 şeker satın aldı.",
+        "Question": "Her bir şeker çubuğunun maliyeti ne kadardı?",
+        "Equation": "( 4.0 / 2.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak-Bölüm"
+    },
+    {
+        "ID": "chal-278",
+        "Body": "Jesse'nin odasını kaplamak için 10 fit karelik bir halıya ihtiyacı var. Odası 2 fit genişliğindeyse",
+        "Question": "Odasının uzunluğu ne kadar?",
+        "Equation": "( 10.0 / 2.0 )",
+        "Answer": 5.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-527",
+        "Body": "Partiyi arka bahçelerinde düzenlemeye karar verdiler. Her birinde 3 sandalye bulunan bazı masa takımları var. Arka bahçede toplam 9 sandalye varsa",
+        "Question": "Kaç takım masaları var?",
+        "Equation": "( 9.0 / 3.0 )",
+        "Answer": 3.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-614",
+        "Body": "Daha sonra hasat edilen portakalları görmeye gitti. Günde 74 çuval toplayıp 71 çuvalını attıklarını öğrendi.",
+        "Question": "51 günlük hasattan sonra kaç çuval portakalları olacak?",
+        "Equation": "( ( 74.0 - 71.0 ) * 51.0 )",
+        "Answer": 153.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-260",
+        "Body": "Kelly 91 Nintendo oyununu hediye ediyor.",
+        "Question": "Hala 92 maçı kaldıysa başlangıçta kaç maçı vardı?",
+        "Equation": "( 91.0 + 92.0 )",
+        "Answer": 183.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-245",
+        "Body": "Ed'in Doug'dan 19 misket fazlası vardı. Ed oyun alanında misketlerinin bir kısmını kaybetti. Artık Ed'in Doug'dan 8 bilyesi daha var.",
+        "Question": "Ed kaç misket kaybetti?",
+        "Equation": "( 19.0 - 8.0 )",
+        "Answer": 11.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-559",
+        "Body": "Yaz tatilinde Lawrence ilçesinden 819058 çocuk kampa gidiyor, diğer 668278 çocuk ise evde kalıyor.",
+        "Question": "Evde kalan çocuklara kıyasla yaz tatilini kampta geçiren çocuk sayısı kaç kişi daha fazladır?",
+        "Equation": "( 819058.0 - 668278.0 )",
+        "Answer": 150780.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-365",
+        "Body": "Rachel ağacından 7 olgun elma topladı. Şimdi ağacın üzerinde hâlâ 5 elma var. Bunlardan 3'ü olgun, geri kalanı olgunlaşmamışsa",
+        "Question": "Ağacın şu anda kaç tane olgunlaşmamış elması var?",
+        "Equation": "( 5.0 - 3.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-491",
+        "Body": "Haley arka bahçesinde 20 ağaç yetiştirdi. Tayfun sonrası 4 ağaç kaldı.",
+        "Question": "Tayfunda kaç ağaç öldü?",
+        "Equation": "( 20.0 - 4.0 )",
+        "Answer": 16.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-522",
+        "Body": "Durakta trene 8 kişi daha bindi. Başlangıçta trende 11 kişi vardı.",
+        "Question": "Şu anda trende kaç kişi var?",
+        "Equation": "( 11.0 + 8.0 )",
+        "Answer": 19.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-409",
+        "Body": "Sepette 5 adet kırmızı şeftali ve 11 adet yeşil şeftali bulunmaktadır.",
+        "Question": "Sepette kırmızı şeftalilerden kaç tane daha fazla yeşil şeftali var?",
+        "Equation": "( 11.0 - 5.0 )",
+        "Answer": 6.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-616",
+        "Body": "Jerry'nin odasındaki rafta 7 kitap ve 3 aksiyon figürü vardı. Daha sonra rafa 2 aksiyon figürü daha ekledi.",
+        "Question": "Rafında aksiyon figürlerinden kaç kitap daha vardı?",
+        "Equation": "( 7.0 - ( 3.0 + 2.0 ) )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-37",
+        "Body": "Doyurucu bir yemek yedikten sonra Buckingham sarayını görmeye gittiler. Orada Rachel, önceki gün Buckingham sarayına 703 ziyaretçinin geldiğini öğrendi. O gün 246 ziyaretçi olsaydı",
+        "Question": "Buckingham sarayını 25 gün içinde kaç kişi ziyaret etti?",
+        "Equation": "( 246.0 + 703.0 )",
+        "Answer": 949.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-856",
+        "Body": "Jesse'nin odası 7 metre uzunluğunda. 14 metrekarelik bir halıya ihtiyacı varsa",
+        "Question": "Odasının genişliği ne kadar?",
+        "Equation": "( 14.0 / 7.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-428",
+        "Body": "Vazoda 10 adet gül vardı. Jessica çiçek bahçesinden 8 gül daha kesip vazoya koydu.",
+        "Question": "Şimdi vazoda kaç tane gül var?",
+        "Equation": "( 10.0 + 8.0 )",
+        "Answer": 18.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-8",
+        "Body": "Paco'nun 41 kurabiyesi vardı. 9 kurabiyeyi arkadaşına verdi ve 18 kurabiyeyi yedi.",
+        "Question": "Arkadaşına verdiği kurabiyelerden kaç tane daha fazla kurabiye yemiştir?",
+        "Equation": "( 18.0 - 9.0 )",
+        "Answer": 9.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-40",
+        "Body": "'Çılgın aptal okul' serisinde 8 farklı kitap ve 5 farklı film yer alıyor. Eğer 19 filmi okuyup 16 kitabı izlediyseniz",
+        "Question": "Kitaptan kaç tane daha fazla film okudunuz?",
+        "Equation": "( 19.0 - 16.0 )",
+        "Answer": 3.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-114",
+        "Body": "Jack sabah 10, öğleden sonra 5 ve akşam 4 e-posta aldı.",
+        "Question": "Jack öğleden sonra akşama göre kaç tane daha fazla e-posta aldı?",
+        "Equation": "( 5.0 - 4.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-846",
+        "Body": "Allan parka 2 balon, Jake ise 6 balon getirdi. Allan daha sonra parktan 3 balon daha aldı.",
+        "Question": "Jake'in parkta Allan'dan kaç tane daha balonu vardı?",
+        "Equation": "( 6.0 - ( 2.0 + 3.0 ) )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-183",
+        "Body": "Karar nedeniyle Sofia öğrencilerden belirli yiyecek türleri önermelerini istedi. 269 ​​öğrenci pastırma eklenmesini önerirken, 330 öğrenci menüye patates püresi eklenmesini, 76 öğrenci ise domates eklenmesini önerdi.",
+        "Question": "Pastırma önerenlerden kaç öğrenci patates püresini önerdi?",
+        "Equation": "( 330.0 - 269.0 )",
+        "Answer": 61.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-426",
+        "Body": "Çitin üzerinde 5 leylek ve 3 kuş oturuyordu. Onlara katılmaya 4 kuş daha geldi.",
+        "Question": "Çitin üzerinde leyleklerden kaç tane daha fazla kuş oturuyor?",
+        "Equation": "( ( 3.0 + 4.0 ) - 5.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-704",
+        "Body": "Paul'un 50 kitabı vardı. Bir garaj satışından biraz satın aldıktan sonra elinde 151 tane kalmıştı.",
+        "Question": "Kaç kitap satın aldı?",
+        "Equation": "( 151.0 - 50.0 )",
+        "Answer": 101.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-756",
+        "Body": "Bryan da kitaplarına bir göz attı. Toplam 42 kitabı varsa ve her kitaplıkta 2 kitap varsa",
+        "Question": "Kaç tane kitap rafı var?",
+        "Equation": "( 42.0 / 2.0 )",
+        "Answer": 21.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-597",
+        "Body": "Jesse'nin odası 7 metre genişliğinde. 14 metrekarelik bir halıya ihtiyacı varsa",
+        "Question": "Odasının uzunluğu ne kadar?",
+        "Equation": "( 14.0 / 7.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak-Bölüm"
+    },
+    {
+        "ID": "chal-971",
+        "Body": "Steven'ın kuka koleksiyonunda 4502 kuka bulunmaktadır. Steven'ın ayrıca 4276 silgisi var. Kukalar ve silgiler 154 gruba ayrılırsa",
+        "Question": "Her grup ne kadar büyük?",
+        "Equation": "( ( 4502.0 + 4276.0 ) / 154.0 )",
+        "Answer": 57.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-27",
+        "Body": "Karar nedeniyle Sofia, öğrencilerden toplam 66 seçenek arasından belirli yiyecek türlerini önermelerini istedi. 450 öğrenci patates püresi eklenmesini önerdiyse 38 öğrenci menüye pastırma eklenmesini önerdi ve geri kalanlar katılmadı",
+        "Question": "Yeni yiyecek önerilerine kaç öğrenci katıldı?",
+        "Equation": "( 450.0 + 38.0 )",
+        "Answer": 488.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-741",
+        "Body": "Farklı akvaryumlarda toplam 40 tuzlu su hayvanı vardı. Her akvaryumda 2 adet hayvan bulunmaktadır.",
+        "Question": "Kaç tane akvaryumu vardı?",
+        "Equation": "( 40.0 / 2.0 )",
+        "Answer": 20.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-911",
+        "Body": "Robin'in 28 paket sakızı ve 13 paket şekeri var. Her pakette 4 adet bulunmaktadır.",
+        "Question": "Robin'in kaç parça sakızı var?",
+        "Equation": "( 28.0 * 4.0 )",
+        "Answer": 112.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-772",
+        "Body": "Daha sonra hasat edilen portakalları görmeye gitti. Günde 82 çuval olgun portakal ve 61 çuval olgunlaşmamış portakal topladıklarını öğrendi.",
+        "Question": "25 günlük hasattan sonra ellerinde kaç çuval olgun portakal olacak?",
+        "Equation": "( 82.0 * 25.0 )",
+        "Answer": 2050.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-574",
+        "Body": "Okul bir gezi planlıyor. Okulun 84 dersliği bulunmaktadır. 95 okul otobüsü, her bir okul otobüsünde 118 koltukla tamamen doludur.",
+        "Question": "Okulda kaç öğrenci var?",
+        "Equation": "( 95.0 * 118.0 )",
+        "Answer": 11210.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-48",
+        "Body": "Jerry'nin odasındaki bir rafta 7 aksiyon figürü vardı. Daha sonra rafa birkaç aksiyon figürü daha ekledi ve eski olanlardan 10 tanesini çıkardı. Şu anda rafında 8 aksiyon figürü varsa",
+        "Question": "Rafa kaç tane aksiyon figürü ekledi?",
+        "Equation": "( ( 8.0 + 10.0 ) - 7.0 )",
+        "Answer": 11.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-555",
+        "Body": "Evin duvarları için 8 büyük tahta kullanacaktı. Her bir tahta kalasın sabitlenmesi için 74 adet çivi gerekiyorsa",
+        "Question": "John'un evin duvarı için kaç tane kalasa ihtiyacı var?",
+        "Equation": "8.0",
+        "Answer": 8.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-348",
+        "Body": "Su aygırı Helen ve arkadaşları, Helen'in evinde şükran gününe hazırlanıyor. Helen dün 527 çikolatalı kurabiye ve 86 kuru üzümlü kurabiye pişirdi. Ve bu sabah 86 kuru üzümlü kurabiye ve 554 çikolatalı kurabiye pişirdi.",
+        "Question": "Helen kaç tane çikolatalı kurabiye pişirdi?",
+        "Equation": "( 527.0 + 554.0 )",
+        "Answer": 1081.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-760",
+        "Body": "Karnavaldaki yüzük atma oyunu günde 144 dolar kazandırdı. 22 gün boyunca karnavaldaydılar.",
+        "Question": "Ne kadar para kazandılar?",
+        "Equation": "( 144.0 * 22.0 )",
+        "Answer": 3168.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-351",
+        "Body": "Tayfunun ardından Haley'nin arka bahçesindeki 13 ağaç öldü. Başlangıçta 3 ağaç yetiştirseydi",
+        "Question": "Tayfunda hayatta kalanlardan kaç ağaç daha öldü?",
+        "Equation": "( 13.0 - ( 3.0 - 13.0 ) )",
+        "Answer": 23.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-32",
+        "Body": "Vazoda 15 gül ve 62 orkide vardı. Jessica çiçek bahçesinden biraz daha gül ve orkide kesti. Vazoda şu anda 17 adet gül ve 96 adet orkide bulunmaktadır.",
+        "Question": "Kaç tane gül kesti?",
+        "Equation": "( 17.0 - 15.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-942",
+        "Body": "Dave'in telefonunda bazı uygulamalar vardı. 18 tanesini sildikten sonra geriye 5 tanesi kalmıştı.",
+        "Question": "Başlangıçta telefonunda kaç uygulama vardı?",
+        "Equation": "( 18.0 + 5.0 )",
+        "Answer": 23.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-82",
+        "Body": "Brenda'nın annesi 2 misafir için 14 kurabiye yaptı. Her birinin aynı sayıda çerezi olsaydı",
+        "Question": "Her birinde kaç tane vardı?",
+        "Equation": "( 14.0 / 2.0 )",
+        "Answer": 7.0,
+        "Type": "Ortak-Bölüm"
+    },
+    {
+        "ID": "chal-902",
+        "Body": "Haley arka bahçesinde 9 ağaç yetiştirdi. Bir tayfundan sonra 4'ü öldü. Sonra 5 ağaç daha yetiştirdi.",
+        "Question": "Kaç ağacı kaldı?",
+        "Equation": "( ( 9.0 - 4.0 ) + 5.0 )",
+        "Answer": 10.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-211",
+        "Body": "Baker 170 kek yaptı. Bunlardan 78 tanesini satıp 31 yeni kek aldı.",
+        "Question": "Fırıncı aldığı keklerden kaç tane daha fazla kek sattı?",
+        "Equation": "( 78.0 - 31.0 )",
+        "Answer": 47.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-374",
+        "Body": "Sepette 6 adet kırmızı şeftali, 90 adet sarı şeftali ve 16 adet yeşil şeftali bulunmaktadır.",
+        "Question": "Sepette kaç tane kırmızı ve yeşil şeftali var?",
+        "Equation": "( 6.0 + 16.0 )",
+        "Answer": 22.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-811",
+        "Body": "Mary kek pişiriyor. Tarifte 6 su bardağı un ve 13 su bardağı şeker gerekiyor. Zaten birkaç bardak un koydu. Eğer hala şekerden 8 bardak daha fazla una ihtiyacı varsa",
+        "Question": "Kaç bardak daha un eklemesi gerekiyor?",
+        "Equation": "( 13.0 + 8.0 )",
+        "Answer": 21.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-163",
+        "Body": "Paco'nun 40 tatlı kurabiyesi ve 25 tuzlu kurabiyesi vardı. 28 tuzlu kurabiye ve 15 tatlı kurabiye yedi.",
+        "Question": "Tatlı kurabiyelerden kaç tane daha fazla tuzlu kurabiye yemişti?",
+        "Equation": "( 28.0 - 15.0 )",
+        "Answer": 13.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-406",
+        "Body": "Haley arka bahçesinde 13 ağaç yetiştirdi. Bir tayfundan sonra 6 ağaç öldü.",
+        "Question": "Tayfunda ölenlerden kaç ağaç daha hayatta kaldı?",
+        "Equation": "( ( 13.0 - 6.0 ) - 6.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-979",
+        "Body": "Rebecca bir yumurta koleksiyonunu 20'li gruplara bölmek istiyor. Rebecca'nın 5 bilyesi ve 12 yumurtası var.",
+        "Question": "Rebecca'nın yumurtaları bilyelerinden kaç fazladır?",
+        "Equation": "( 12.0 - 5.0 )",
+        "Answer": 7.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-104",
+        "Body": "Faye kalemlerini her sırada 11 kalem olacak şekilde 14 sıraya yerleştiriyordu.",
+        "Question": "Kaç tane kalemi var?",
+        "Equation": "( 14.0 * 11.0 )",
+        "Answer": 154.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-740",
+        "Body": "Vazoda 6 gül ve 20 orkide vardı. Jessica çiçek bahçesinden birkaç gül ve orkide daha kesti. Şimdi vazoda 21 orkide ve 22 gül var.",
+        "Question": "Şimdi vazoda orkidelerden kaç tane gül daha var?",
+        "Equation": "( 22.0 - 21.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-99",
+        "Body": "Frank en sevdiği kitabı okuyordu. Kitabı bitirmesi 16 gün sürdü. Kitabın 112 sayfası olsaydı",
+        "Question": "Günde kaç sayfa okuyordu?",
+        "Equation": "( 112.0 / 16.0 )",
+        "Answer": 7.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-599",
+        "Body": "Ed'in Doug'dan 10 misket fazlası vardı. Doug oyun alanında 11 misketini kaybetti. Ed'in 45 bilyesi olsaydı",
+        "Question": "O zaman Ed'in Doug'dan kaç misketi daha vardı?",
+        "Equation": "( 10.0 + 11.0 )",
+        "Answer": 21.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-336",
+        "Body": "Jerry'nin odasındaki rafta 7 aksiyon figürü ve 2 kitap vardı. Daha sonra rafa 4 kitap daha ekledi.",
+        "Question": "Rafında kitaplardan kaç tane daha aksiyon figürü vardı?",
+        "Equation": "( 7.0 - ( 2.0 + 4.0 ) )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-444",
+        "Body": "Jake'in Steven'dan 7 şeftalisi eksik ve Jill'den 8 şeftalisi fazla. Steven'ın 17 şeftalisi var.",
+        "Question": "Jill'in kaç tane şeftalisi var?",
+        "Equation": "( ( 17.0 - 7.0 ) - 8.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-96",
+        "Body": "Dan'in 5 doları var. 2 dolara şeker, 3 dolara da çikolata satın aldı.",
+        "Question": "Çikolata almaya harcadığı para, şekerleme almaya harcadığından ne kadardır?",
+        "Equation": "( 3.0 - 2.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-519",
+        "Body": "120 dolara 6 paket dvd alınabiliyor.",
+        "Question": "Her paketin maliyeti ne kadar?",
+        "Equation": "( 120.0 / 6.0 )",
+        "Answer": 20.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-77",
+        "Body": "Rachel'ın 2 sayfalık okuma ödevini ve 4 sayfalık matematik ödevini tamamlaması gerekiyordu.",
+        "Question": "Okuma ödevinden kaç sayfa daha fazla matematik ödevi vardı?",
+        "Equation": "( 4.0 - 2.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-115",
+        "Body": "Faye kalemlerini her sırada 22 kalem olacak şekilde sıralara yerleştiriyordu. Her birinde 14 kalem bulunan 6 paket kalemi vardı.",
+        "Question": "Kaç tane kalemi var?",
+        "Equation": "( 6.0 * 14.0 )",
+        "Answer": 84.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-894",
+        "Body": "Vazoda 13 gül ve 84 orkide vardı. Jessica çiçek bahçesinden biraz daha gül ve orkide kesti. Vazoda şu anda 91 adet orkide ve 14 adet gül bulunmaktadır.",
+        "Question": "Kaç tane gül kesti?",
+        "Equation": "( 14.0 - 13.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-362",
+        "Body": "Cennet parkında dönme dolaba aynı anda 16 kişi binebilmektedir. Dönme dolapta 4 koltuk varsa",
+        "Question": "Her koltuğa kaç kişi sığabilir?",
+        "Equation": "( 16.0 / 4.0 )",
+        "Answer": 4.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-970",
+        "Body": "Jesse'nin odasını kaplamak için 10 metrekarelik bir halıya ihtiyacı var. Eğer odası 5 feet uzunluğundaysa",
+        "Question": "Odasının genişliği ne kadardır?",
+        "Equation": "( 10.0 / 5.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-575",
+        "Body": "Faye kalemlerini ve boya kalemlerini, her sırada 71 boya kalemi ve 24 kurşun kalem olmak üzere 30 sıraya yerleştiriyordu.",
+        "Question": "Kaç tane kalemi var?",
+        "Equation": "( 30.0 * 24.0 )",
+        "Answer": 720.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-463",
+        "Body": "Vazoda 15 adet gül vardı. Jessica vazodaki 33 gülü attı ve vazoya koymak için çiçek bahçesinden birkaç yeni gül daha kesti. Şimdi vazoda 17 adet gül var.",
+        "Question": "Kaç tane gülü kesti, attığından daha fazla?",
+        "Equation": "( 17.0 - 15.0 )",
+        "Answer": 2.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-12",
+        "Body": "Partiyi arka bahçelerinde düzenlemeye karar verdiler. 11 takım masaları varsa ve her takımda 13 sandalye varsa",
+        "Question": "Arka bahçede kaç tane sandalye var?",
+        "Equation": "( 11.0 * 13.0 )",
+        "Answer": 143.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-355",
+        "Body": "Dave atari salonunda birkaç bilet kazanmıştı. Oyuncak almak için 12 bilet kullandı. Eğer hala 14 bileti kalmışsa",
+        "Question": "Dave atari salonunda kaç bilet kazandı?",
+        "Equation": "( 12.0 + 14.0 )",
+        "Answer": 26.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-111",
+        "Body": "Eşit sayıda kurabiye içeren 26 torbanız vardı. Toplamda 15 şekeriniz ve 52 kurabiyeniz olsaydı",
+        "Question": "Her çantada kaç kurabiye var?",
+        "Equation": "( 52.0 / 26.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-292",
+        "Body": "Jake'in, Jill'den 13 daha fazla şeftalisi olan Steven'dan 18 daha az şeftalisi var. Steven'ın 19 şeftalisi var.",
+        "Question": "Jill'in kaç tane şeftalisi var?",
+        "Equation": "( 19.0 - 13.0 )",
+        "Answer": 6.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-488",
+        "Body": "Debby indirimdeyken 153 su şişesi satın aldı. Her gün aynı sayıda şişe içiyordu. Şişeler 17 gün dayansaydı",
+        "Question": "Her gün kaç şişe içiyordu?",
+        "Equation": "( 153.0 / 17.0 )",
+        "Answer": 9.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-710",
+        "Body": "9 pizza sipariş ettik. Her pizza 10 dilimden oluşuyor. eğer 2 kişi olursak",
+        "Question": "Eşit olarak dağıtılırsa her birimize kaç dilim pizza düşer?",
+        "Equation": "( 9.0 * ( 10.0 / 2.0 ) )",
+        "Answer": 45.0,
+        "Type": "Çarpma işlemi"
+    },
+    {
+        "ID": "chal-862",
+        "Body": "Robin saçının 13 inçini kesti. Başlangıçta saçları 14 inç uzunluğunda olsaydı",
+        "Question": "Saçları şu an ne kadar?",
+        "Equation": "( 14.0 - 13.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-632",
+        "Body": "Bir bakkalda 79 şişe normal soda, 53 şişe diyet soda ve 42 elma vardı.",
+        "Question": "Diyet sodadan kaç şişe daha fazla normal sodaları vardı?",
+        "Equation": "( 79.0 - 53.0 )",
+        "Answer": 26.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-139",
+        "Body": "Matthew 4 arkadaşına eşit sayıda kraker ve kek verdi. Başlangıçta 10 kraker ve 8 keki olsaydı",
+        "Question": "Her kişi kaç tane kek yemiştir?",
+        "Equation": "( 8.0 / 4.0 )",
+        "Answer": 2.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-438",
+        "Body": "Jack sabah 6 e-posta aldı ve 91 mektup gönderdi. Daha sonra öğleden sonra 2 e-posta aldı ve 74 mektup gönderdi.",
+        "Question": "Jack gün içinde kaç e-posta aldı?",
+        "Equation": "( 6.0 + 2.0 )",
+        "Answer": 8.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-647",
+        "Body": "Doyurucu bir yemek yedikten sonra Buckingham sarayını görmeye gittiler. Rachel orada o gün Buckingham sarayına 92 ​​ziyaretçinin geldiğini öğrendi. Önceki gün 419, önceki gün 103 ziyaretçi olsaydı",
+        "Question": "O günden önce Buckingham sarayını kaç kişi ziyaret etti?",
+        "Equation": "( 419.0 + 103.0 )",
+        "Answer": 522.0,
+        "Type": "Ek"
+    },
+    {
+        "ID": "chal-182",
+        "Body": "Bir bakkalda 54 şişe diyet soda, 83 şişe normal soda ve 12 elma vardı.",
+        "Question": "Diyet sodadan kaç şişe daha fazla normal sodaları vardı?",
+        "Equation": "( 83.0 - 54.0 )",
+        "Answer": 29.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-447",
+        "Body": "Brenda'nın annesi misafirler için kurabiye yaptı. Her misafirin 2 kurabiyesi vardı. Toplamda 10 kurabiye hazırlasaydı",
+        "Question": "Kaç misafir için kurabiye hazırladı?",
+        "Equation": "( 10.0 / 2.0 )",
+        "Answer": 5.0,
+        "Type": "Ortak Bölüm"
+    },
+    {
+        "ID": "chal-276",
+        "Body": "Mary kek pişiriyor. Tarifte 9 su bardağı şeker, 7 su bardağı un ve 4 su bardağı tuz gerekiyor. Zaten 2 bardak un koydu.",
+        "Question": "Şimdi bir bardak tuzdan kaç bardak daha fazla un eklemesi gerekiyor?",
+        "Equation": "( ( 7.0 - 2.0 ) - 4.0 )",
+        "Answer": 1.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-796",
+        "Body": "Baker 61 hamur işi ve 167 kek yaptı. 108 kek ve 44 hamur işi satarsa",
+        "Question": "Fırıncının hâlâ kaç tane keki vardır?",
+        "Equation": "( 167.0 - 108.0 )",
+        "Answer": 59.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-407",
+        "Body": "Julia pazartesi günü 18 çocukla takım oyunu oynadı. Salı günü 10 çocukla etiket oynadı.",
+        "Question": "Pazartesi günü salı gününe göre kaç çocukla daha oynadı?",
+        "Equation": "( 18.0 - 10.0 )",
+        "Answer": 8.0,
+        "Type": "Çıkarma"
+    },
+    {
+        "ID": "chal-440",
+        "Body": "Ryan her gün 7 saatini İngilizce öğrenmeye, birkaç saatini de Çince öğrenmeye harcıyor. İngilizce öğrenmeye Çince öğrenmekten 2 saat daha fazla zaman harcıyorsa",
+        "Question": "Çince öğrenmeye kaç saat harcıyor?",
+        "Equation": "( 7.0 - 2.0 )",
+        "Answer": 5.0,
+        "Type": "Çıkarma"
+    }
+]
